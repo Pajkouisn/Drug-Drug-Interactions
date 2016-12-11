@@ -1,0 +1,450 @@
+timegadine~
+Acetaminophen~Digoxin~Quinine~Quinidine~Aspirin~Indomethacin~
+Fluoxetine~Ciprofloxacin~
+Caffeine~
+Aspirin~
+Povidone~Lysine~solufenum~
+Diclofenac~
+Acetazolamide~
+Etodolac~loxoprofen~Thromboxane B2~Adenosine Diphosphate~Collagen~Aspirin~
+Insulin Detemir~
+sulforafan~stearic acid~
+Vancomycin~Amikacin~Indomethacin~
+Warfarin~Furosemide~Sertraline~
+Aspirin~
+Aspirin~
+Celecoxib~Aspirin~
+Formaldehyde~Acetic Acid~piperine~
+diclofenac hydroxyethylpyrrolidine~Diclofenac~Furosemide~
+Acetaminophen~Codeine~
+laurocapram~Caffeine~hydrocortisone acetate~salicylurate~Triamcinolone Acetonide~Salicylic Acid~Fluorouracil~Hydrocortisone~
+Acetaminophen~
+Digoxin~Indomethacin~
+Diclofenac~Naproxen~Aspirin~Indomethacin~
+Phosgene~Pentoxifylline~
+Sucralfate~
+Famotidine~
+Tramadol~
+Naltrexone~Codeine~
+tiaprofenic acid~Naproxen~Aspirin~Indomethacin~
+aluminum hydroxide, magnesium hydroxide, drug combination~Aluminum Hydroxide~Magnesium Hydroxide~
+Antistreptolysin~C-Reactive Protein~Aspirin~
+Collagen~Aspirin~
+enfenamic acid~Copper~
+Pemetrexed~Guanine~Methotrexate~
+Aspirin~
+2-oxothiazolidine-4-carboxylic acid~Hydrogen Peroxide~Glutathione~Pyrrolidonecarboxylic Acid~
+Warfarin~
+rofecoxib~Diclofenac~Naproxen~Aspirin~
+Formaldehyde~Tramadol~
+Clofibric Acid~Flurbiprofen~Coenzyme A~
+Diclofenac~Sulindac~Naproxen~Creatinine~
+Lithium~
+Aspirin~
+Docosahexaenoic Acids~Aspirin~
+Sulindac~Captopril~
+Serotonin~Carrageenan~Duloxetine Hydrochloride~Acetic Acid~Norepinephrine~
+Aspirin~
+Diltiazem~
+Guaifenesin~Celecoxib~Acetic Acid~nimesulide~
+Charcoal~Salicylic Acid~Aspirin~
+Acetaminophen~Aspirin~
+etoricoxib~
+Vincristine~Doxorubicin~Indomethacin~
+Benzodiazepines~methylxanthine~Acetaminophen~Procaine~Cimetidine~Lidocaine~diaziquone~Imipramine~Aspirin~
+Codeine~
+Aspirin~
+Hexobarbital~Ascorbic Acid~Phenobarbital~
+Acetaminophen~
+Vasopressins~Nitric Oxide~Adrenocorticotropic Hormone~Arginine~NG-Nitroarginine Methyl Ester~
+Warfarin~Quercetin~
+Diazepam~
+Acetaminophen~Tramadol~Fluconazole~Epoprostenol~Celecoxib~Aspirin~
+Naproxen~
+Catechin~epigallocatechin gallate~
+Catechin~epigallocatechin gallate~
+7-hydroxywarfarin~Warfarin~
+omega-N-Methylarginine~
+rofecoxib~Angiotensin Amide~Celecoxib~
+Ethanol~
+Cytochrome P-450 Enzyme System~Zanamivir~
+Glutamic Acid~N-Methylaspartate~Dynorphins~dynorphin 2-17)~Dinoprostone~
+480156-S~Cimetidine~Cytochrome P-450 Enzyme System~Pentobarbital~Diazepam~
+Phenprocoumon~
+Diclofenac~Imatinib Mesylate~
+etoricoxib~Acetaminophen~Celecoxib~Acetic Acid~Codeine~
+Lithium~Indomethacin~
+Dinoprostone~
+Phenytoin~
+Hydrochlorothiazide~Piroxicam~Amlodipine~Acetaminophen~Lisinopril~
+Sulfadiazine~Butylscopolammonium Bromide~Dipyrone~Tetracycline~Oxyphenbutazone~Aspirin~
+Cimetidine~
+Bleomycin~Etoposide~Indomethacin~Methotrexate~
+Vancomycin~
+Aspirin~
+Glyburide~
+Caffeine~
+Carrageenan~anethole~
+Diclofenac~Clofibric Acid~Naproxen~Valproic Acid~Benzoic Acid~Physostigmine~Proadifen~Probenecid~
+Methacholine Chloride~Salmeterol Xinafoate~Fluticasone~Albuterol~
+etiracetam~Acetaminophen~Caffeine~Celecoxib~Piracetam~
+Magnesium Hydroxide~
+Dexamethasone~Dinoprostone~Indomethacin~
+Morphine~
+Flurbiprofen~Indomethacin~
+Sulfobromophthalein~
+Naproxen~Aspirin~
+Aspirin~
+Acetaminophen~
+Ethanol~Aspirin~
+Cimetidine~
+Thromboxane A2~Aspirin~
+Desipramine~
+1-aminobenzotriazole~Terfenadine~fexofenadine~Pravastatin~Antipyrine~Rifampin~
+Aspirin~
+Salicylic Acid~
+Bilirubin~
+Pemetrexed~Guanine~Creatinine~Aspirin~
+methylglucoside~glycylsarcosine~Glycine~
+fomivirsen~
+Diclofenac~Niacinamide~sorafenib~
+rilmenidine~Acetic Acid~
+Dactinomycin~Arachidonic Acid~Dexamethasone~Cycloheximide~Celecoxib~Indomethacin~
+Pregnenolone Carbonitrile~Thyroxine~
+Acetaminophen~
+Moclobemide~
+Amphetamine~
+Acetaminophen~Theophylline~Aspirin~
+Ketoprofen~Indomethacin~Methotrexate~
+alminoprofen~Kaolin~Captopril~Acetylcholine~Indomethacin~
+Albuterol~Aspirin~Indomethacin~
+Aspirin~Indomethacin~
+Cytochrome P-450 Enzyme System~clopidogrel~Ticlopidine~Aspirin~
+etoricoxib~Naproxen~meloxicam~Aspirin~
+Codeine~
+Itraconazole~fluvastatin~caspofungin~terbinafine~
+Diclofenac~Naproxen~Warfarin~Acenocoumarol~
+Ketoprofen~
+Captopril~Nifedipine~Indomethacin~
+Leukotriene B4~Theophylline~Cyclic AMP~Dinoprostone~
+etiracetam~Acetaminophen~Ceftriaxone~Celecoxib~Piracetam~
+Egtazic Acid~fenamic acid~Capsaicin~Calcium~
+propionic acid~Povidone~
+Nitric Oxide~Dinoprostone~
+Aspirin~
+Iron~
+Carbamazepine~Naproxen~Valproic Acid~Tolmetin~
+Acetaminophen~
+Clofibric Acid~ciprofibrate~
+Trichloroethylene~Naproxen~Valproic Acid~Gliclazide~
+Warfarin~
+Sulindac~Acetaminophen~Aspirin~
+phenidone~Dopamine~
+Flurbiprofen~
+baysilon~oxybenzone~
+Celecoxib~Dinoprostone~
+Aspirin~
+Superoxides~Meclofenamic Acid~Thromboxane B2~6-Ketoprostaglandin F1 alpha~
+Amikacin~Indomethacin~
+Aspirin~
+Acetaminophen~
+Ethanol~
+rofecoxib~Celecoxib~
+Flufenamic Acid~Cyclosporine~Aspirin~Indomethacin~
+Cytochrome P-450 Enzyme System~
+Naproxen~
+Hydrochlorothiazide~Sulindac~Acetaminophen~nabumetone~Thromboxane B2~Sodium~Creatinine~Dinoprostone~Fosinopril~
+Acetaminophen~
+Fluconazole~Voriconazole~
+Arachidonic Acid~Naproxen~Bucladesine~Thapsigargin~Dinoprostone~Indomethacin~
+Warfarin~
+Angiotensin II~Arachidonic Acid~4,5-Dihydro-1-3-trifluoromethyl)phenyl)-1H-pyrazol-3-amine~Halothane~
+zileuton~Naproxen~Warfarin~Terfenadine~Prednisolone~Theophylline~Hydroxyurea~
+gamma-Aminobutyric Acid~gabapentin~
+Colforsin~Histamine~Dinoprostone~Acetylcholine~Aspirin~Prostaglandin D2~
+Piroxicam~Apazone~Diazepam~
+Piroxicam~
+Acetaminophen~Aspirin~
+Valproic Acid~Ammonia~Salicylic Acid~2,4-Dinitrophenol~
+Methotrexate~
+Acetaminophen~
+Itraconazole~Amphotericin B~Voriconazole~
+Vitamin A~1-Deoxynojirimycin~migalastat~Glutathione~Dinoprostone~
+Aspirin~
+potassium hydroxide~
+Acetaminophen~
+Ciprofloxacin~Ranitidine~
+Acetaminophen~
+Diclofenac~Naproxen~Aspirin~
+Morphine~Aspirin~
+Silicon Dioxide~Diazepam~
+Arginine Vasopressin~Meclofenamic Acid~
+Fluconazole~
+oxaprozin~
+Aspirin~
+Acetic Acid~Alprazolam~
+Aspirin~Isoniazid~
+Fluconazole~
+Pentobarbital~Phenobarbital~
+N,N,N',N'-tetrakis2-pyridylmethyl)ethylenediamine~Niflumic Acid~bafilomycin A1~sodium sulfide~Penicillamine~Zinc~Zinc Oxide~Acetylcysteine~zinquin~
+Aspirin~
+Acetaminophen~Dipyrone~Aspirin~
+rofecoxib~Celecoxib~
+Arachidonic Acid~Indomethacin~
+Diclofenac~fluvastatin~Tolbutamide~
+triflusal~4-trifluoromethylsalicylic acid~
+DNA~Gentian Violet~Bisbenzimidazole~Thymidine~
+Polyethylene Glycols~
+Acetaminophen~
+Aspirin~Glyburide~
+Ethanol~
+Morphine~
+Nitric Oxide~Dinoprostone~Pyridostigmine Bromide~
+Cimetidine~
+Naproxen~
+Tacrolimus~
+Cholestyramine Resin~Colestipol~
+Lithium~
+Clofibrate~
+Codeine~Aspirin~
+Hyaluronic Acid~
+Collagen~Aspirin~Calcium~
+Oxycodone~
+Acetaminophen~Naproxen~Celecoxib~
+Ketoprofen~
+Aspirin~
+Econazole~
+Water~Vasopressins~Sodium~Cyclic AMP~Bradykinin~Indomethacin~
+Gold Sodium Thiomalate~Auranofin~
+Aspirin~
+Aspirin~
+Piroxicam~Meclofenamic Acid~Naproxen~Diflunisal~Tolmetin~Phenylbutazone~Aspirin~Fenoprofen~Indomethacin~
+Naproxen~
+brequinar~Aspirin~
+Celecoxib~
+Beclomethasone~Albuterol~
+Lansoprazole~Interferon-gamma~Omeprazole~
+Fluconazole~Tacrolimus~
+Salicylic Acid~
+Trichloroethylene~
+Metformin~
+Serotonin~Aspirin~
+Aspirin~
+Pindolol~
+SK&F 104351~SK&F 105809~6-4-fluorophenyl)-2,3-dihydro-5-4-pyridinyl)imidazo2,1-b)thiazole~
+Cimetidine~Proadifen~
+Aspirin~
+Codeine~
+Misoprostol~Ranitidine~
+Guanfacine~
+Diclofenac~Thapsigargin~
+Allopurinol~olsalazine~
+Methotrexate~
+Cimetidine~
+Naproxen~
+Aspirin~
+Sulfaphenazole~Diclofenac~Flurbiprofen~Cytochrome P-450 Enzyme System~Ketoprofen~Tolbutamide~Phenylbutazone~
+Caffeine~Probenecid~
+Pseudoephedrine~
+Bromocriptine~Warfarin~Enalapril~Digoxin~Cimetidine~Captopril~
+Phenylephrine~Arachidonic Acid~Epoprostenol~Calcium~Propofol~
+Aspirin~
+Aspirin~
+Dinoprostone~
+Pyrazinamide~Aspirin~
+Tyrosine~Naproxen~
+Nitroarginine~Arginine~Acetylcholine~
+Acetaminophen~
+Dipyrone~noramidopyrine~Aspirin~
+Naproxen~Aspirin~
+Itraconazole~Fluconazole~Voriconazole~
+rofecoxib~Naproxen~
+Piroxicam~Diclofenac~
+rofecoxib~Diclofenac~Flurbiprofen~Celecoxib~Aspirin~
+rosiglitazone~Ciprofloxacin~
+Aspirin~
+Clofibric Acid~Phenindione~Cyclosporine~Colchicine~
+Aspirin~
+Nitroarginine~icatibant~Bradykinin~
+2-4-morpholinyl)-8-phenyl-4H-1-benzopyran-4-one~fulvestrant~Estradiol~Epoprostenol~
+Benzydamine~baysilon~
+Acetaminophen~flupirtine~Aspirin~Indomethacin~
+Amodiaquine~
+tapentadol~
+Warfarin~
+Cadmium~Platinum~Tolmetin~Zinc~Indomethacin~
+Acetaminophen~
+Enalapril~Lisinopril~Aspirin~Indomethacin~
+Aspirin~
+Leukotriene B4~Arachidonic Acid~Leukotriene E4~Dinoprostone~Indomethacin~
+Piroxicam~Diclofenac~Etodolac~Naproxen~Dextromethorphan~
+MK 0591~Leukotriene B4~Thromboxane B2~Leukotriene E4~
+Diflunisal~zomepirac~Tolmetin~Aspirin~
+Hydrogen~Dinoprost~
+Aspirin~
+Phenylephrine~Acetaminophen~
+Cytochrome P-450 Enzyme System~
+Caffeine~Codeine~
+Naproxen~Povidone~
+Digoxin~
+Amikacin~
+prothrombin complex concentrates~Warfarin~Acetazolamide~
+p-Methoxy-N-methylphenethylamine~sertaconazole~Histamine~Prostaglandin D2~
+Flurbiprofen~Warfarin~Salicylic Acid~Indomethacin~
+Sodium Salicylate~Indomethacin~
+Citrulline~Kainic Acid~
+Acetaminophen~Ethanol~Aspirin~
+Aspirin~
+Mefenamic Acid~Phenylbutazone~Aspirin~Indomethacin~
+Digoxin~
+Acetaminophen~Ethanol~Warfarin~Aspirin~Methotrexate~
+Piroxicam~tenoxicam~
+Aspirin~
+Aspirin~
+Warfarin~Aspirin~
+Aspirin~
+Fluconazole~Sodium Salicylate~propylparaben~
+Vasopressins~8-Bromo Cyclic Adenosine Monophosphate~Thromboxane B2~Cyclic AMP~Dinoprostone~1-Methyl-3-isobutylxanthine~
+Epirizole~
+Piroxicam~Flurbiprofen~Ketoprofen~Methotrexate~
+Econazole~nikkomycin~
+Warfarin~Phenylbutazone~
+Aspirin~
+Hydrocodone~
+Lithium~
+Valproic Acid~Phenytoin~
+zomepirac~Tolmetin~
+Fluconazole~
+Acetaminophen~
+Methotrexate~
+Tramadol~
+Arachidonic Acid~Nicotine~Muscarine~Histamine~indo-1~Dinoprostone~Potassium~Bradykinin~Calcium~Indomethacin~
+Formaldehyde~
+Carbamazepine~Erythromycin~Terfenadine~Lithium~Propranolol~Theophylline~Aspirin~Epinephrine~
+Diclofenac~Acetaminophen~Caffeine~tolfenamic acid~
+lauric acid~Propylene Glycol~
+nabumetone~
+Propyl Gallate~Eicosapentaenoic Acid~Methylene Blue~
+Warfarin~Thromboplastin~
+Thromboxane B2~Aspirin~
+Serotonin~
+Carrageenan~
+Chlormethiazole~Benzodiazepines~Sulfamethizole~Phenytoin~Doleron~Sulfapral~Aspirin~Dextropropoxyphene~Sulfamethoxypyridazine~Antipyrine~
+Diclofenac~Creatinine~
+nateglinide~Phenylalanine~Cytochrome P-450 Enzyme System~
+Thromboxane B2~Aspirin~
+Acetaminophen~
+Captopril~Sodium~
+Aspirin~
+N-ethoxycarbonylmethyl)-6-methoxyquinolinium~Glutamic Acid~
+Diclofenac~Thromboxane B2~Aspirin~
+Meptazinol~
+Aspirin~
+Aspirin~
+Water~Captopril~Sodium~
+Methotrexate~
+Aspirin~
+Ethanol~Magnesium~Aspirin~Calcium~
+Hydrogen Peroxide~
+baicalein~12-Hydroxy-5,8,10,14-eicosatetraenoic Acid~
+Tramadol~Warfarin~
+Acetaminophen~Aspirin~
+Aspirin~
+Diclofenac~
+boswellic acid~Carrageenan~Glucosamine~
+Doxepin~Nadolol~Hydroxychloroquine~Flurbiprofen~Propafenone~Nortriptyline~Verapamil~Disopyramide~
+Hydrochlorothiazide~
+Acetaminophen~
+Cefixime~Cefotaxime~
+Phenylbutazone~Chlorpropamide~
+Clonidine~
+Naproxen~Epinephrine~
+Diclofenac~Morphine~Indomethacin~
+Gemfibrozil~
+Misoprostol~
+Acetone~resiniferatoxin~Tetradecanoylphorbol Acetate~Capsaicin~
+Dinoprostone~
+Aspirin~
+Mifepristone~tetrahydropalmatine~Warfarin~Imipramine~
+Diclofenac~Naproxen~Aspirin~
+Ampicillin~
+Metronidazole~fluvastatin~Amphotericin B~terbinafine~Rifampin~
+Cimetidine~Ranitidine~
+anandamide~
+Aspirin~Indomethacin~
+3-mercaptopicolinic acid~hydroxycitric acid~Glucose~
+Freund's Adjuvant~Aspirin~
+Isosorbide Dinitrate~
+allyl alcohol~
+Phorbol 12,13-Dibutyrate~Calcimycin~Zymosan~Calcium~
+Thromboxane B2~Aspirin~
+Cystic Fibrosis Transmembrane Conductance Regulator~Warfarin~
+Febuxostat~Warfarin~Cytochrome P-450 Enzyme System~
+rofecoxib~Naproxen~Epoprostenol~Aspirin~
+Centchroman~
+Acetaminophen~Naproxen~Celecoxib~Aspirin~
+Suprofen~
+zaleplon~
+Warfarin~
+betamethasone-17,21-dipropionate~Betamethasone~Indomethacin~
+Acetaminophen~
+N-2-cyclohexyloxy-4-nitrophenyl)methanesulfonamide~Okadaic Acid~Meclofenamic Acid~Dexamethasone~flosulide~Dinoprostone~nimesulide~Indomethacin~
+Oxycodone~
+Phenytoin~
+Angiotensin II~4-3-Butoxy-4-methoxybenzyl)-2-imidazolidinone~11-deoxyprostaglandin E1~Alprostadil~Dinoprostone~
+Naproxen~Verapamil~
+Thromboxane B2~Naproxen~clopidogrel~Ticlopidine~Aspirin~
+Piroxicam~Sulindac~Naproxen~4-N-methyl-N-nitrosamino)-1-3-pyridyl)-1-butanone~
+Dronabinol~delta9)-tetrahydrocannabinolic acid~
+Propranolol~Verapamil~
+Sulindac~6-Ketoprostaglandin F1 alpha~Creatinine~Epoprostenol~Nifedipine~Dinoprostone~Potassium~Calcium~Prazosin~Indomethacin~
+rofecoxib~
+Alprostadil~Dinoprostone~Isoproterenol~Indomethacin~
+Curcumin~
+Lithium~Creatinine~
+Nitroprusside~Phenylephrine~Nitric Oxide~Adenosine Triphosphate~Carbachol~Arginine~Bradykinin~NG-Nitroarginine Methyl Ester~
+tert-butylbicyclophosphorothionate~
+Tocopherols~Docosahexaenoic Acids~phenyl-N-tert-butylnitrone~Dinoprostone~
+Hydrochlorothiazide~Diclofenac~Sulindac~Lisinopril~
+Carbamazepine~oxcarbazepine~
+rofecoxib~Celecoxib~
+Hydrocodone~
+rofecoxib~N-2-cyclohexyloxy-4-nitrophenyl)methanesulfonamide~Formaldehyde~anandamide~capsazepine~Capsaicin~
+Hydrocodone~
+Misoprostol~Propranolol~Alprostadil~Diazepam~Antipyrine~
+Metoclopramide~
+Aspirin~
+Tacrine~
+Phenylephrine~Acetaminophen~
+rofecoxib~Acetaminophen~
+etiracetam~Acetaminophen~Aspirin~Piracetam~
+Ethanol~Aspirin~
+Flurbiprofen~Methotrexate~
+gamma-Aminobutyric Acid~gabapentin~
+cefditoren~
+Methylprednisolone Hemisuccinate~Methylprednisolone~
+Aspirin~
+Warfarin~Phenytoin~Digoxin~Lithium~Aspirin~Indomethacin~
+Doxepin~methyl nicotinate~Aspirin~Indomethacin~
+Vanilmandelic Acid~Homovanillic Acid~
+1-Methyl-4-phenylpyridinium~
+Acetaminophen~telmisartan~
+Flumazenil~Morphine~Diazepam~
+Flurbiprofen~
+rofecoxib~Diclofenac~Acetaminophen~Thromboxane B2~Dinoprostone~Aspirin~
+Sulindac~Naproxen~Valproic Acid~bis4-nitrophenyl)phosphate~Phenylglyoxal~Aspirin~benzil~Indomethacin~
+Captopril~
+Valproic Acid~
+Creatinine~Potassium~
+Phenytoin~
+Cisplatin~
+Lysine~solufenum~
+Cholestyramine Resin~Colestipol~
+laurocapram~Ethanol~Indomethacin~
+Naproxen~Celecoxib~Aspirin~
+Acetaminophen~
+Polyethylene Glycols~Castor Oil~Octoxynol~
+Cimetidine~Nizatidine~
+Pancreatin~
+Ethanol~Aspirin~ethyl oleate~
+Pemetrexed~Guanine~

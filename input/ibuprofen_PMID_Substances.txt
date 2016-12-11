@@ -1,0 +1,1619 @@
+PMID	Substances
+26659924	Methotrexate
+26612138	Warfarin
+26612138	Furosemide
+26612138	Sertraline
+26612138	Ibuprofen
+26482940	Carrageenan
+26482940	anethole
+26482940	Ibuprofen
+26482940	Cyclooxygenase 1
+26482940	Cyclooxygenase 2
+26261844	Hydrocodone
+26197109	Dinoprostone
+26197109	Ibuprofen
+26159746	Docosahexaenoic Acids
+26159746	Aspirin
+26159746	IKBKE protein, human
+26159746	I-kappa B Kinase
+26159746	Phosphoprotein Phosphatases
+26011058	Ibuprofen
+25958352	etiracetam
+25958352	Acetaminophen
+25958352	Aspirin
+25958352	Ibuprofen
+25958352	Piracetam
+25845879	Fluconazole
+25845879	Ibuprofen
+25796279	Diclofenac
+25796279	Naproxen
+25796279	Aspirin
+25796279	Ibuprofen
+25784216	Acetaminophen
+25784216	Dipyrone
+25784216	Aspirin
+25707701	Cystic Fibrosis Transmembrane Conductance Regulator
+25707701	Warfarin
+25652350	sulforafan
+25652350	stearic acid
+25652350	Ibuprofen
+25504564	Pemetrexed
+25504564	Guanine
+25504564	Ibuprofen
+25502615	Ibuprofen
+25502052	Diclofenac
+25502052	Acetaminophen
+25502052	Caffeine
+25502052	tolfenamic acid
+25502052	Ibuprofen
+25475358	Phenylephrine
+25475358	Acetaminophen
+25475358	Ibuprofen
+25475358	Arylsulfotransferase
+25475358	SULT1A1 protein, human
+25452230	1-aminobenzotriazole
+25452230	Terfenadine
+25452230	fexofenadine
+25452230	Pravastatin
+25452230	Antipyrine
+25452230	Rifampin
+25452230	Ibuprofen
+25139652	Diclofenac
+25139652	Naproxen
+25139652	Aspirin
+25122936	Acetaminophen
+25122936	Ibuprofen
+25048905	Diclofenac
+25048905	Ibuprofen
+24934064	Caffeine
+24873003	Naproxen
+24873003	Aspirin
+24873003	Ibuprofen
+24860956	Acetaminophen
+24860956	Ibuprofen
+24829163	Formaldehyde
+24829163	Tramadol
+24829163	Ibuprofen
+24645960	Phenylephrine
+24645960	Acetaminophen
+24645960	Ibuprofen
+24632077	Trichloroethylene
+24481441	Cisplatin
+24481441	Ibuprofen
+24401404	Vancomycin
+26995806	Acetaminophen
+24075938	Aspirin
+24075938	Cyclooxygenase 1
+24071615	etiracetam
+24071615	Acetaminophen
+24071615	Ceftriaxone
+24071615	Celecoxib
+24071615	Ibuprofen
+24071615	Piracetam
+24042472	Pemetrexed
+24042472	Guanine
+24042472	Methotrexate
+24002210	Ibuprofen
+23954518	etiracetam
+23954518	Acetaminophen
+23954518	Caffeine
+23954518	Celecoxib
+23954518	Ibuprofen
+23954518	Piracetam
+23952611	Ibuprofen
+23881568	Famotidine
+23881568	Ibuprofen
+23614290	Ibuprofen
+23406450	Albuterol
+23406450	Aspirin
+23406450	Ibuprofen
+23406450	Indomethacin
+23238666	Aspirin
+23092442	Acetaminophen
+23092442	Naproxen
+23092442	Celecoxib
+23092442	Ibuprofen
+23089131	Trichloroethylene
+23089131	Naproxen
+23089131	Valproic Acid
+23089131	Gliclazide
+23064032	Cytochrome P-450 CYP1A1
+23064032	Cytochrome P-450 CYP3A
+23025432	Curcumin
+22962324	Diclofenac
+22962324	Niacinamide
+22962324	sorafenib
+22962324	Extracellular Signal-Regulated MAP Kinases
+22962324	Phospholipases A2, Cytosolic
+22890587	etoricoxib
+22890587	Naproxen
+22890587	meloxicam
+22890587	Aspirin
+22890587	Ibuprofen
+22890587	Cyclooxygenase 1
+22890587	Cyclooxygenase 2
+22890587	PTGS1 protein, human
+22890587	PTGS2 protein, human
+22882748	Collagen
+22882748	Aspirin
+22706619	Tramadol
+22706619	Warfarin
+22706619	Ibuprofen
+22606944	CYP2C9 protein, human
+22606944	Cytochrome P-450 CYP2C19
+22606944	Cytochrome P-450 CYP2C9
+22606944	CYP3A4 protein, human
+22606944	Aryl Hydrocarbon Hydroxylases
+22606944	CYP2C19 protein, human
+22606944	Cytochrome P-450 CYP3A
+22579578	Polyethylene Glycols
+22579578	Castor Oil
+22579578	Octoxynol
+22579578	Ibuprofen
+22560196	Ibuprofen
+22531634	Diclofenac
+22531634	Imatinib Mesylate
+22531634	Ibuprofen
+22479557	Creatinine
+22479557	Potassium
+22420652	Acetaminophen
+22396078	gamma-Aminobutyric Acid
+22396078	gabapentin
+22396078	Ibuprofen
+22357916	omega-N-Methylarginine
+22357916	Ibuprofen
+22357916	Nitric Oxide Synthase
+22229883	Amikacin
+22229883	Ibuprofen
+22209120	Itraconazole
+22209120	fluvastatin
+22209120	caspofungin
+22209120	terbinafine
+22209120	Ibuprofen
+24847536	Codeine
+24847536	Ibuprofen
+22122406	Aspirin
+22122406	Ibuprofen
+22085648	Sulindac
+22085648	Naproxen
+22085648	Valproic Acid
+22085648	bis4-nitrophenyl)phosphate
+22085648	Phenylglyoxal
+22085648	Aspirin
+22085648	benzil
+22085648	Ibuprofen
+22085648	Indomethacin
+22085648	Carboxylic Ester Hydrolases
+22085648	CES1 protein, human
+22085648	CES2 protein, human
+22085648	Carboxylesterase
+22029226	Formaldehyde
+22029226	Acetic Acid
+22029226	piperine
+22029226	Ibuprofen
+21959726	Metformin
+21959726	Ibuprofen
+21840673	Itraconazole
+21840673	Amphotericin B
+21840673	Voriconazole
+21840673	Ibuprofen
+21781648	diclofenac hydroxyethylpyrrolidine
+21781648	Diclofenac
+21781648	Furosemide
+21781648	Ibuprofen
+21722228	Acetaminophen
+21722228	Ibuprofen
+21722088	Cimetidine
+21722088	Cytochrome P-450 CYP2D6
+21720137	Aspirin
+21720137	Ibuprofen
+21552200	etoricoxib
+21552200	Acetaminophen
+21552200	Celecoxib
+21552200	Acetic Acid
+21552200	Codeine
+21552200	Ibuprofen
+21508099	2-oxothiazolidine-4-carboxylic acid
+21508099	Hydrogen Peroxide
+21508099	Glutathione
+21508099	Pyrrolidonecarboxylic Acid
+21508099	Ibuprofen
+21415533	Etodolac
+21415533	loxoprofen
+21415533	Thromboxane B2
+21415533	Adenosine Diphosphate
+21415533	Collagen
+21415533	Aspirin
+21415533	Ibuprofen
+21415533	Cyclooxygenase 1
+21389119	Sulfobromophthalein
+21387168	Piroxicam
+21387168	Diclofenac
+21093475	Carbamazepine
+21093475	oxcarbazepine
+21073556	Aspirin
+20977110	Ciprofloxacin
+20977110	Ranitidine
+20977110	Ibuprofen
+20960989	tapentadol
+20887749	Ketoprofen
+20887749	Ibuprofen
+20726987	methylglucoside
+20726987	glycylsarcosine
+20726987	Glycine
+20726987	Ibuprofen
+20655373	propionic acid
+20655373	Povidone
+20590643	Isosorbide Dinitrate
+20590643	Ibuprofen
+20558156	Acetaminophen
+20558156	Codeine
+20558156	Ibuprofen
+20505747	p-Methoxy-N-methylphenethylamine
+20505747	sertaconazole
+20505747	Histamine
+20505747	Prostaglandin D2
+20505747	p38 Mitogen-Activated Protein Kinases
+20356918	Pseudoephedrine
+20356918	Ibuprofen
+20214592	Aryl Hydrocarbon Hydroxylases
+20214592	CYP2C8 protein, human
+20214592	Cytochrome P-450 CYP2C8
+20208470	Ibuprofen
+20089905	Tyrosine
+20089905	Naproxen
+20089905	Ibuprofen
+20089905	rhoA GTP-Binding Protein
+20043424	Warfarin
+20043424	Ibuprofen
+20032540	Ibuprofen
+19927376	Mifepristone
+19927376	tetrahydropalmatine
+19927376	Warfarin
+19927376	Imipramine
+19927376	Ibuprofen
+19902529	Warfarin
+19902529	Quercetin
+19855358	Guaifenesin
+19855358	Celecoxib
+19855358	Acetic Acid
+19855358	nimesulide
+19855358	Ibuprofen
+19719333	Cytochrome P-450 Enzyme System
+19701859	Vancomycin
+19701859	Amikacin
+19701859	Ibuprofen
+19701859	Indomethacin
+19675513	rilmenidine
+19675513	Acetic Acid
+19675513	Ibuprofen
+19492485	Clofibric Acid
+19492485	Phenindione
+19492485	Cyclosporine
+19492485	Colchicine
+19466986	Diclofenac
+19466986	Thromboxane B2
+19466986	Aspirin
+19466986	Ibuprofen
+19464879	7-hydroxywarfarin
+19464879	Warfarin
+19464879	CYP2C9 protein, human
+19464879	Cytochrome P-450 CYP2C9
+19464879	Aryl Hydrocarbon Hydroxylases
+19464879	DNA Topoisomerases, Type II
+19464879	DNA topoisomerase II beta
+19416368	Fluconazole
+19416368	Ibuprofen
+19416368	Tacrolimus
+19269752	Metronidazole
+19269752	fluvastatin
+19269752	Amphotericin B
+19269752	terbinafine
+19269752	Rifampin
+19269752	Ibuprofen
+19232345	Lansoprazole
+19232345	Interferon-gamma
+19232345	Omeprazole
+19230597	rosiglitazone
+19230597	Ciprofloxacin
+19230597	Ibuprofen
+19167421	Formaldehyde
+19127220	Bilirubin
+19127220	Ibuprofen
+19127220	Casp3 protein, rat
+19127220	Caspase 3
+18978713	Ibuprofen
+18953082	Hydrochlorothiazide
+18953082	Piroxicam
+18953082	Amlodipine
+18953082	Acetaminophen
+18953082	Lisinopril
+18953082	Ibuprofen
+18840026	etoricoxib
+18760329	phenidone
+18760329	Dopamine
+18618308	baysilon
+18618308	oxybenzone
+18618308	Ibuprofen
+18556069	Citrulline
+18556069	Kainic Acid
+18556069	Nitric Oxide Synthase
+18445737	Acetaminophen
+18445737	Ibuprofen
+18421623	Febuxostat
+18421623	Warfarin
+18421623	Cytochrome P-450 Enzyme System
+18421623	Ibuprofen
+18421623	Xanthine Oxidase
+18421623	Glucuronosyltransferase
+18410516	Diclofenac
+18410516	Ibuprofen
+18359332	Aspirin
+17870554	Aspirin
+18348186	Catechin
+18348186	epigallocatechin gallate
+18348186	Ibuprofen
+18348186	Protein Phosphatase 1
+18335847	Aspirin
+18335847	Ibuprofen
+18298484	Methacholine Chloride
+18298484	Salmeterol Xinafoate
+18298484	Fluticasone
+18298484	Albuterol
+18298484	Ibuprofen
+18280125	Ibuprofen
+18225555	Catechin
+18225555	epigallocatechin gallate
+18225555	Ibuprofen
+18225555	Mitogen-Activated Protein Kinases
+18225555	Caspases
+18224287	Acetone
+18224287	resiniferatoxin
+18224287	Tetradecanoylphorbol Acetate
+18224287	Capsaicin
+18224287	Ibuprofen
+18224287	Peroxidase
+18164916	Acetaminophen
+18164916	Ethanol
+18164916	Warfarin
+18164916	Aspirin
+18164916	Methotrexate
+18159128	nateglinide
+18159128	Phenylalanine
+18159128	Cytochrome P-450 Enzyme System
+18159128	CYP2C9 protein, human
+18159128	Cytochrome P-450 CYP2C9
+18159128	CYP3A4 protein, human
+18159128	Aryl Hydrocarbon Hydroxylases
+18159128	Cytochrome P-450 CYP3A
+18043688	Aspirin
+18043688	Ibuprofen
+18001710	lauric acid
+18001710	Propylene Glycol
+17944992	Dipyrone
+17944992	noramidopyrine
+17944992	Aspirin
+17944992	Cyclooxygenase 1
+17926084	Aspirin
+17926084	Ibuprofen
+17844731	Aspirin
+17844731	Ibuprofen
+17628221	Caffeine
+17628221	Ibuprofen
+17604006	Celecoxib
+17604006	Dinoprostone
+17553913	Allopurinol
+17553913	olsalazine
+17553913	Methyltransferases
+17553913	thiopurine methyltransferase
+17481895	boswellic acid
+17481895	Carrageenan
+17481895	Glucosamine
+17392619	Thromboxane A2
+17392619	Aspirin
+17392619	Ibuprofen
+17392619	Cyclooxygenase 1
+17392619	Cyclooxygenase 2
+17335733	Phenytoin
+17335733	Ibuprofen
+17333976	Aspirin
+17333976	Ibuprofen
+17333159	Gemfibrozil
+17333159	Ibuprofen
+17333159	CYP2C9 protein, human
+17333159	Cytochrome P-450 CYP2C9
+17333159	Aryl Hydrocarbon Hydroxylases
+17333159	CYP2C8 protein, human
+17333159	Cytochrome P-450 CYP2C8
+17302086	prothrombin complex concentrates
+17302086	Warfarin
+17302086	Acetazolamide
+17302086	Ibuprofen
+17297732	rofecoxib
+17297732	Naproxen
+17297732	Ibuprofen
+17290524	Aspirin
+17290524	Ibuprofen
+17284505	Ibuprofen
+17235401	cefditoren
+17235401	Ibuprofen
+17185297	Pyrazinamide
+17185297	Aspirin
+17185297	Ibuprofen
+17182503	Celecoxib
+17182503	Aspirin
+17145791	Aspirin
+17145791	Isoniazid
+17145791	Ibuprofen
+17078596	Thromboxane B2
+17078596	Naproxen
+17078596	clopidogrel
+17078596	Ticlopidine
+17078596	Aspirin
+17078596	Ibuprofen
+17027744	rofecoxib
+17027744	N-2-cyclohexyloxy-4-nitrophenyl)methanesulfonamide
+17027744	Formaldehyde
+17027744	anandamide
+17027744	capsazepine
+17027744	Capsaicin
+17027744	Ibuprofen
+17008981	Cytochrome P-450 Enzyme System
+17008981	clopidogrel
+17008981	Ticlopidine
+17008981	Aspirin
+17008981	CYP3A4 protein, human
+17008981	Cytochrome P-450 CYP3A
+16999561	Amikacin
+16999561	Ibuprofen
+16999561	Indomethacin
+16962719	Morphine
+16921585	Aspirin
+16921585	Ibuprofen
+16911100	rofecoxib
+16911100	Acetaminophen
+16911100	Ibuprofen
+16836983	Dexamethasone
+16836983	Dinoprostone
+16836983	Indomethacin
+16741257	Dinoprostone
+16741257	Ibuprofen
+16741257	Cyclooxygenase 2
+16741257	Phospholipases A
+16741257	Ornithine Decarboxylase
+16723553	Fluconazole
+16723553	Voriconazole
+16723553	Ibuprofen
+16679073	Acetaminophen
+16675319	Acetaminophen
+16675319	Aspirin
+16675319	Ibuprofen
+16611202	Aspirin
+16611202	Ibuprofen
+16542861	Serotonin
+16542861	Carrageenan
+16542861	Duloxetine Hydrochloride
+16542861	Acetic Acid
+16542861	Ibuprofen
+16542861	Norepinephrine
+16494111	Thromboxane B2
+16494111	Aspirin
+16494111	Ibuprofen
+16480830	Acetaminophen
+16480822	anandamide
+16480822	Ibuprofen
+16435567	Ampicillin
+16431382	Naproxen
+16431382	Ibuprofen
+16428497	Pemetrexed
+16428497	Guanine
+16428497	Creatinine
+16428497	Aspirin
+16428497	Ibuprofen
+16428497	Thymidylate Synthase
+16420743	DNA
+16420743	Gentian Violet
+16420743	Bisbenzimidazole
+16420743	Thymidine
+16420743	Ibuprofen
+16420743	Caspases
+16409487	Ethanol
+16409487	Aspirin
+16409487	Ibuprofen
+16409487	ethyl oleate
+16388830	Diclofenac
+16388830	Thapsigargin
+16388830	Caspases
+16373546	Naproxen
+16373546	Celecoxib
+16373546	Aspirin
+16373546	Ibuprofen
+16373546	Cyclooxygenase 1
+16373546	PTGS1 protein, human
+16298872	Acetazolamide
+16298872	Ibuprofen
+16266203	Oxycodone
+16266203	Ibuprofen
+16250253	Ibuprofen
+16242675	N,N,N',N'-tetrakis2-pyridylmethyl)ethylenediamine
+16242675	Niflumic Acid
+16242675	bafilomycin A1
+16242675	sodium sulfide
+16242675	Penicillamine
+16242675	Zinc
+16242675	Zinc Oxide
+16242675	Acetylcysteine
+16242675	zinquin
+16207037	Silicon Dioxide
+16207037	Diazepam
+16207037	Ibuprofen
+16134247	Aspirin
+16134247	Ibuprofen
+16115827	Itraconazole
+16115827	Fluconazole
+16115827	Voriconazole
+16115827	Ibuprofen
+16100300	Povidone
+16100300	Lysine
+16100300	solufenum
+16100300	Ibuprofen
+16078339	Aspirin
+16078339	Ibuprofen
+16044851	Ibuprofen
+15977911	Aspirin
+15950443	Benzydamine
+15950443	baysilon
+15950443	Ibuprofen
+15913000	Acetaminophen
+15913000	Aspirin
+15913000	Ibuprofen
+15906177	Naproxen
+15906177	Povidone
+15906177	Ibuprofen
+15843212	Vanilmandelic Acid
+15843212	Ibuprofen
+15843212	Homovanillic Acid
+15823765	Oxycodone
+15823765	Ibuprofen
+15811481	Thromboxane B2
+15811481	Aspirin
+15811481	Ibuprofen
+15770754	Naproxen
+15770754	Aspirin
+15770754	Ibuprofen
+15694272	Nitric Oxide
+15694272	Dinoprostone
+15694272	Pyridostigmine Bromide
+15694272	Ibuprofen
+15679664	Fluconazole
+15679664	Ibuprofen
+15659002	Acetaminophen
+15659002	Aspirin
+15659002	Ibuprofen
+15575422	Aspirin
+15575422	Ibuprofen
+15511050	Acetaminophen
+15511050	Ibuprofen
+15511049	Acetaminophen
+15511049	Ibuprofen
+15505823	Vitamin A
+15505823	1-Deoxynojirimycin
+15505823	migalastat
+15505823	Glutathione
+15505823	Dinoprostone
+15505823	Nitric Oxide Synthase
+15505823	Nitric Oxide Synthase Type II
+15505823	Nos2 protein, mouse
+15505823	Cyclooxygenase 2
+15505823	Prostaglandin-Endoperoxide Synthases
+15482377	rofecoxib
+15482377	Diclofenac
+15482377	Flurbiprofen
+15482377	Celecoxib
+15482377	Aspirin
+15482377	Ibuprofen
+15482377	Cyclooxygenase 2
+15482377	Prostaglandin-Endoperoxide Synthases
+15456329	nabumetone
+15332505	Ibuprofen
+15331142	N-ethoxycarbonylmethyl)-6-methoxyquinolinium
+15331142	Glutamic Acid
+15282145	Polyethylene Glycols
+15282145	Ibuprofen
+15205386	Diclofenac
+15205386	fluvastatin
+15205386	Tolbutamide
+15205386	Ibuprofen
+15205386	CYP2C9 protein, human
+15205386	Cytochrome P-450 CYP2C9
+15205386	Aryl Hydrocarbon Hydroxylases
+15197149	rofecoxib
+15197149	Diclofenac
+15197149	Naproxen
+15197149	Aspirin
+15197149	Ibuprofen
+15131242	1-Methyl-4-phenylpyridinium
+15106532	Aspirin
+15106532	Ibuprofen
+15101300	Acetaminophen
+15101300	Naproxen
+15101300	Celecoxib
+15101300	Aspirin
+15101300	Ibuprofen
+15101300	Prostaglandin-Endoperoxide Synthases
+15101300	cyclooxygenase-3
+15095902	Fluoxetine
+15095902	Ciprofloxacin
+15095902	Ibuprofen
+15078587	Aspirin
+15078587	Ibuprofen
+15058617	Cytochrome P-450 Enzyme System
+15028355	Aspirin
+15028355	Ibuprofen
+15028354	Aspirin
+15028354	Ibuprofen
+14993258	Morphine
+14993258	Aspirin
+14993258	Ibuprofen
+14993258	Arachidonate 12-Lipoxygenase
+14976098	Aspirin
+14960618	Glutamic Acid
+14960618	N-Methylaspartate
+14960618	Dynorphins
+14960618	dynorphin 2-17)
+14960618	Dinoprostone
+14960618	Cyclooxygenase 1
+14960618	Cyclooxygenase 2
+14960618	Prostaglandin-Endoperoxide Synthases
+14960618	Ptgs1 protein, rat
+14871154	Ibuprofen
+14734996	Aspirin
+14734996	Ibuprofen
+14713307	Tocopherols
+14713307	Docosahexaenoic Acids
+14713307	phenyl-N-tert-butylnitrone
+14713307	Dinoprostone
+14713307	Nitric Oxide Synthase
+14713307	Nitric Oxide Synthase Type II
+14713307	Nos2 protein, mouse
+14691574	Diclofenac
+14691574	Naproxen
+14691574	Warfarin
+14691574	Acenocoumarol
+14691574	Ibuprofen
+14691574	CYP2C9 protein, human
+14691574	Cytochrome P-450 CYP2C9
+14691574	Aryl Hydrocarbon Hydroxylases
+14679326	Magnesium Hydroxide
+14679326	Ibuprofen
+14660026	Tramadol
+14656840	Aspirin
+14656840	Ibuprofen
+14656809	Aspirin
+14656809	Ibuprofen
+14651311	Acetaminophen
+14651311	Ibuprofen
+14633549	Hydrocodone
+14633549	Ibuprofen
+14564311	rofecoxib
+14564311	Naproxen
+14564311	Epoprostenol
+14564311	Aspirin
+14564311	Cyclooxygenase 2
+14564311	PTGS2 protein, human
+14564311	Prostaglandin-Endoperoxide Synthases
+14527099	Clonidine
+14527090	Ibuprofen
+12877565	Ibuprofen
+12877565	potassium hydroxide
+12823470	Egtazic Acid
+12823470	fenamic acid
+12823470	Capsaicin
+12823470	Calcium
+12823470	Ibuprofen
+12818420	Ibuprofen
+12739449	Aspirin
+12739449	Ibuprofen
+12737891	Aspirin
+12737891	Ibuprofen
+12737890	Aspirin
+12737890	Ibuprofen
+12737889	Aspirin
+12737889	Ibuprofen
+12737887	Aspirin
+12737887	Ibuprofen
+12737886	Aspirin
+12737886	Ibuprofen
+12737885	Aspirin
+12737885	Ibuprofen
+12710393	Aspirin
+12710393	Ibuprofen
+12705061	Cyclooxygenase 1
+12705061	Cyclooxygenase 2
+12705061	PTGS1 protein, human
+12705061	PTGS2 protein, human
+12705061	Prostaglandin-Endoperoxide Synthases
+12598144	Aspirin
+12598144	Ibuprofen
+12580991	Caffeine
+12580991	Probenecid
+12580991	Ibuprofen
+12580991	Cytochrome P-450 CYP1A2
+12580991	Arylamine N-Acetyltransferase
+12426936	Ibuprofen
+12416791	rofecoxib
+12416791	Celecoxib
+12416791	Cyclooxygenase 2
+12416791	PTGS2 protein, human
+12416791	Prostaglandin-Endoperoxide Synthases
+12416790	Cyclooxygenase 2
+12416790	PTGS2 protein, human
+12416790	Prostaglandin-Endoperoxide Synthases
+12416789	rofecoxib
+12416789	Celecoxib
+12416789	Cyclooxygenase 2
+12416789	PTGS2 protein, human
+12416789	Prostaglandin-Endoperoxide Synthases
+12211937	Acetaminophen
+12169381	Centchroman
+12136787	Thromboxane B2
+12136787	Aspirin
+12136787	Ibuprofen
+12116507	Acetaminophen
+12116507	Tramadol
+12116507	Fluconazole
+12116507	Epoprostenol
+12116507	Celecoxib
+12116507	Aspirin
+12116507	Ibuprofen
+12116507	Cyclooxygenase 2
+12116507	PTGS2 protein, human
+12116507	Prostaglandin-Endoperoxide Synthases
+12108928	Acetic Acid
+12108928	Ibuprofen
+12108928	Alprazolam
+12046769	Aspirin
+12046769	Ibuprofen
+12034553	Serotonin
+12034553	Aspirin
+12034553	Ibuprofen
+11978144	fomivirsen
+11934809	2-4-morpholinyl)-8-phenyl-4H-1-benzopyran-4-one
+11934809	fulvestrant
+11934809	Estradiol
+11934809	Epoprostenol
+11934809	Nitric Oxide Synthase
+11934809	Nitric Oxide Synthase Type III
+11934809	Nos3 protein, rat
+11934809	Akt1 protein, rat
+11934809	Protein-Serine-Threonine Kinases
+11934809	Proto-Oncogene Proteins c-akt
+11921591	Hydrochlorothiazide
+11921591	Diclofenac
+11921591	Sulindac
+11921591	Lisinopril
+11921591	Ibuprofen
+11752357	rofecoxib
+11752357	Diclofenac
+11752357	Acetaminophen
+11752357	Thromboxane B2
+11752357	Dinoprostone
+11752357	Aspirin
+11752357	Ibuprofen
+11752357	Cyclooxygenase 1
+11752357	Cyclooxygenase 2
+11752357	PTGS1 protein, human
+11752357	PTGS2 protein, human
+11752357	Prostaglandin-Endoperoxide Synthases
+11700640	Acetaminophen
+11700640	Ibuprofen
+11694713	Acetaminophen
+11694713	Ibuprofen
+11680204	rofecoxib
+11680204	Celecoxib
+11680204	Cyclooxygenase 2
+11680204	PTGS2 protein, human
+11680204	Prostaglandin-Endoperoxide Synthases
+11642076	Enalapril
+11642076	Lisinopril
+11642076	Aspirin
+11642076	Ibuprofen
+11642076	Indomethacin
+11589261	rofecoxib
+11589261	Angiotensin Amide
+11589261	Celecoxib
+11589261	Cyclooxygenase 1
+11589261	Cyclooxygenase 2
+11589261	PTGS1 protein, human
+11589261	PTGS2 protein, human
+11589261	Prostaglandin-Endoperoxide Synthases
+11487305	Dactinomycin
+11487305	Arachidonic Acid
+11487305	Dexamethasone
+11487305	Cycloheximide
+11487305	Celecoxib
+11487305	Indomethacin
+11487305	Cyclooxygenase 2
+11487305	Prostaglandin-Endoperoxide Synthases
+11484412	Hyaluronic Acid
+11484412	Ibuprofen
+11475598	Naproxen
+11475598	Ibuprofen
+11446826	allyl alcohol
+11446826	Cyclooxygenase 2
+11446826	Prostaglandin-Endoperoxide Synthases
+11408553	Ibuprofen
+11388535	Phenylephrine
+11388535	Arachidonic Acid
+11388535	Epoprostenol
+11388535	Calcium
+11388535	Ibuprofen
+11388535	Propofol
+11269574	Naproxen
+11269574	Ibuprofen
+11269574	Metalloendopeptidases
+11185632	Acetaminophen
+11185632	telmisartan
+11185632	Ibuprofen
+11182854	Glyburide
+11182854	Ibuprofen
+11154035	Econazole
+11154035	Ibuprofen
+11019669	Aspirin
+11019669	Ibuprofen
+10994162	Ibuprofen
+10966233	Fluconazole
+10966233	Ibuprofen
+10911512	zaleplon
+10911512	Ibuprofen
+10749518	Celecoxib
+10749518	Cyclooxygenase 2
+10749518	PTGS2 protein, human
+10749518	Prostaglandin-Endoperoxide Synthases
+10747002	Angiotensin II
+10747002	4-3-Butoxy-4-methoxybenzyl)-2-imidazolidinone
+10747002	11-deoxyprostaglandin E1
+10747002	Alprostadil
+10747002	Dinoprostone
+10747002	Ibuprofen
+10707114	Diazepam
+10707114	Ibuprofen
+10620732	Diclofenac
+10620732	Clofibric Acid
+10620732	Naproxen
+10620732	Valproic Acid
+10620732	Benzoic Acid
+10620732	Physostigmine
+10620732	Proadifen
+10620732	Probenecid
+10620732	Ibuprofen
+10620732	Hydrolases
+10566697	Ethanol
+10566697	Aspirin
+10566697	Ibuprofen
+10566697	Peroxidases
+10566697	Cyclooxygenase 1
+10566697	Cyclooxygenase 2
+10566697	PTGS1 protein, human
+10566697	PTGS2 protein, human
+10566697	Prostaglandin-Endoperoxide Synthases
+10525081	Nitric Oxide
+10525081	Dinoprostone
+10525081	Ibuprofen
+10525081	Nitric Oxide Synthase
+10525081	NADPH Dehydrogenase
+10519504	gamma-Aminobutyric Acid
+10519504	gabapentin
+10519504	Ibuprofen
+10511472	Alprostadil
+10511472	Dinoprostone
+10511472	Isoproterenol
+10511472	Ibuprofen
+10511472	Indomethacin
+10509552	Hydrochlorothiazide
+10509552	Sulindac
+10509552	Acetaminophen
+10509552	nabumetone
+10509552	Thromboxane B2
+10509552	Sodium
+10509552	Creatinine
+10509552	Dinoprostone
+10509552	Fosinopril
+10509552	Ibuprofen
+10493277	rofecoxib
+10483516	Leukotriene B4
+10483516	Theophylline
+10483516	Cyclic AMP
+10483516	Dinoprostone
+10483516	Ibuprofen
+10474781	Nitroarginine
+10474781	icatibant
+10474781	Bradykinin
+10474781	Ibuprofen
+10435655	Pancreatin
+10435655	Ibuprofen
+10429839	Cytochrome P-450 Enzyme System
+10429839	Zanamivir
+10429839	Neuraminidase
+10395027	Flufenamic Acid
+10395027	Cyclosporine
+10395027	Aspirin
+10395027	Indomethacin
+10364464	Vincristine
+10364464	Doxorubicin
+10364464	Ibuprofen
+10364464	Indomethacin
+10364464	Cyclooxygenase 1
+10364464	Cyclooxygenase 2
+10364464	PTGS1 protein, human
+10364464	PTGS2 protein, human
+10364464	Prostaglandin-Endoperoxide Synthases
+9951432	Hydrocodone
+9951432	Ibuprofen
+9833323	Cadmium
+9833323	Platinum
+9833323	Tolmetin
+9833323	Zinc
+9833323	Ibuprofen
+9833323	Indomethacin
+9821438	Acetaminophen
+9821438	Ibuprofen
+9808920	Desipramine
+9808920	Ibuprofen
+9725479	Codeine
+9725479	Ibuprofen
+9716894	Diltiazem
+9716894	Ibuprofen
+9675622	MK 0591
+9675622	Leukotriene B4
+9675622	Thromboxane B2
+9675622	Leukotriene E4
+9675622	Ibuprofen
+9642033	Valproic Acid
+9642033	Phenytoin
+9569999	Methotrexate
+9547810	Valproic Acid
+9547810	Ibuprofen
+9516027	Caffeine
+9516027	Codeine
+9516027	Ibuprofen
+9515184	Ibuprofen
+9495875	Clofibrate
+9495875	Ibuprofen
+9399974	Ketoprofen
+9399974	Indomethacin
+9399974	Methotrexate
+9423147	Insulin Detemir
+9298510	Amphetamine
+9260035	Doxepin
+9260035	Nadolol
+9260035	Hydroxychloroquine
+9260035	Flurbiprofen
+9260035	Propafenone
+9260035	Nortriptyline
+9260035	Verapamil
+9260035	Disopyramide
+9260035	Ibuprofen
+9274933	N-2-cyclohexyloxy-4-nitrophenyl)methanesulfonamide
+9274933	Okadaic Acid
+9274933	Meclofenamic Acid
+9274933	Dexamethasone
+9274933	flosulide
+9274933	Dinoprostone
+9274933	nimesulide
+9274933	Ibuprofen
+9274933	Indomethacin
+9274933	Prostaglandin-Endoperoxide Synthases
+9186171	Clofibric Acid
+9186171	ciprofibrate
+9186171	Ibuprofen
+9200170	Flumazenil
+9200170	Morphine
+9200170	Diazepam
+9200170	Ibuprofen
+9127814	Arachidonic Acid
+9127814	Nicotine
+9127814	Muscarine
+9127814	Histamine
+9127814	indo-1
+9127814	Dinoprostone
+9127814	Potassium
+9127814	Bradykinin
+9127814	Calcium
+9127814	Ibuprofen
+9127814	Indomethacin
+9073568	Dinoprostone
+9073568	Ibuprofen
+9162275	Tramadol
+9004453	Sulfaphenazole
+9004453	Diclofenac
+9004453	Flurbiprofen
+9004453	Cytochrome P-450 Enzyme System
+9004453	Ketoprofen
+9004453	Tolbutamide
+9004453	Phenylbutazone
+9004453	Mixed Function Oxygenases
+9004453	CYP2C9 protein, human
+9004453	Cytochrome P-450 CYP2C9
+9004453	Aryl Hydrocarbon Hydroxylases
+9004453	tolbutamide 4-hydroxylase
+8997188	Hydrogen Peroxide
+8997188	Ibuprofen
+8997188	Prostaglandin-Endoperoxide Synthases
+9252006	Piroxicam
+9252006	Diclofenac
+9252006	Etodolac
+9252006	Naproxen
+9252006	Dextromethorphan
+9252006	Ibuprofen
+8952254	Naproxen
+8889788	Phosgene
+8889788	Pentoxifylline
+8889788	Ibuprofen
+8866042	Flurbiprofen
+8866042	Ibuprofen
+8795442	Diclofenac
+8795442	Creatinine
+8795442	Ibuprofen
+8795442	Sodium-Potassium-Exchanging ATPase
+8657040	Warfarin
+8657040	Ibuprofen
+8810029	Clofibric Acid
+8810029	Flurbiprofen
+8810029	Coenzyme A
+8810029	Ibuprofen
+8738769	Carbamazepine
+8738769	Naproxen
+8738769	Valproic Acid
+8738769	Tolmetin
+8738769	Ibuprofen
+8633709	Tacrine
+8633709	Ibuprofen
+8715844	Ibuprofen
+8612107	Hydrochlorothiazide
+8612107	Ibuprofen
+8612107	Renin
+8773160	Aspirin
+8773160	Glyburide
+8773160	Ibuprofen
+8925650	Cholestyramine Resin
+8925650	Colestipol
+8925650	Ibuprofen
+8748324	laurocapram
+8748324	Caffeine
+8748324	hydrocortisone acetate
+8748324	salicylurate
+8748324	Triamcinolone Acetonide
+8748324	Salicylic Acid
+8748324	Fluorouracil
+8748324	Hydrocortisone
+8592989	Econazole
+8592989	nikkomycin
+8592989	Ibuprofen
+8592988	Fluconazole
+8592988	Sodium Salicylate
+8592988	Ibuprofen
+8592988	propylparaben
+8640357	Arachidonic Acid
+8640357	Naproxen
+8640357	Bucladesine
+8640357	Thapsigargin
+8640357	Dinoprostone
+8640357	Ibuprofen
+8640357	Indomethacin
+7562546	Phorbol 12,13-Dibutyrate
+7562546	Calcimycin
+7562546	Zymosan
+7562546	Calcium
+7562546	Protein Kinase C
+7628398	Vasopressins
+7628398	Nitric Oxide
+7628398	Adrenocorticotropic Hormone
+7628398	Arginine
+7628398	NG-Nitroarginine Methyl Ester
+7628398	Ibuprofen
+7748048	Naproxen
+7748048	Verapamil
+7748048	Ibuprofen
+7797113	Colforsin
+7797113	Histamine
+7797113	Dinoprostone
+7797113	Acetylcholine
+7797113	Aspirin
+7797113	Prostaglandin D2
+7797113	Ibuprofen
+8620669	zileuton
+8620669	Naproxen
+8620669	Warfarin
+8620669	Terfenadine
+8620669	Prednisolone
+8620669	Theophylline
+8620669	Ibuprofen
+8620669	Hydroxyurea
+7897758	Diclofenac
+7897758	Sulindac
+7897758	Naproxen
+7897758	Creatinine
+7589030	Acetaminophen
+7589030	Ethanol
+7589030	Aspirin
+7589030	Ibuprofen
+7565469	Nitroarginine
+7565469	Arginine
+7565469	Acetylcholine
+7565469	Ibuprofen
+7988541	Nitroprusside
+7988541	Phenylephrine
+7988541	Nitric Oxide
+7988541	Adenosine Triphosphate
+7988541	Carbachol
+7988541	Arginine
+7988541	Bradykinin
+7988541	NG-Nitroarginine Methyl Ester
+7988541	Ibuprofen
+7993984	Cholestyramine Resin
+7993984	Colestipol
+7993984	Ibuprofen
+7932515	Misoprostol
+7932515	Ibuprofen
+8054251	Piroxicam
+8054251	Flurbiprofen
+8054251	Ketoprofen
+8054251	Methotrexate
+7513099	Ibuprofen
+7513099	Tacrolimus
+8056271	Carbamazepine
+8056271	Erythromycin
+8056271	Terfenadine
+8056271	Lithium
+8056271	Propranolol
+8056271	Theophylline
+8056271	Aspirin
+8056271	Ibuprofen
+8056271	Epinephrine
+7939134	Gold Sodium Thiomalate
+7939134	Auranofin
+8355212	Ibuprofen
+8388990	tert-butylbicyclophosphorothionate
+8387662	Naltrexone
+8387662	Codeine
+8387662	Ibuprofen
+8333405	Acetaminophen
+8333405	Ibuprofen
+8415243	Captopril
+8415243	Nifedipine
+8415243	Ibuprofen
+8415243	Indomethacin
+8427430	Metoclopramide
+8427430	Ibuprofen
+8448514	Ethanol
+8013267	SK&F 104351
+8013267	SK&F 105809
+8013267	6-4-fluorophenyl)-2,3-dihydro-5-4-pyridinyl)imidazo2,1-b)thiazole
+1361542	triflusal
+1361542	4-trifluoromethylsalicylic acid
+1403805	baicalein
+1403805	12-Hydroxy-5,8,10,14-eicosatetraenoic Acid
+1451092	Piroxicam
+1451092	Sulindac
+1451092	Naproxen
+1451092	4-N-methyl-N-nitrosamino)-1-3-pyridyl)-1-butanone
+1451092	Ibuprofen
+1580178	Sulindac
+1580178	Captopril
+1580178	Ibuprofen
+1624946	Collagen
+1624946	Aspirin
+1624946	Calcium
+1624946	Ibuprofen
+1624946	Thrombin
+1500891	Ethanol
+1500891	Ibuprofen
+1558996	betamethasone-17,21-dipropionate
+1558996	Betamethasone
+1558996	Ibuprofen
+1558996	Indomethacin
+1546139	Moclobemide
+1546139	Ibuprofen
+1361697	Chlormethiazole
+1361697	Benzodiazepines
+1361697	Sulfamethizole
+1361697	Phenytoin
+1361697	Doleron
+1361697	Sulfapral
+1361697	Aspirin
+1361697	Dextropropoxyphene
+1361697	Sulfamethoxypyridazine
+1361697	Antipyrine
+1361697	Ibuprofen
+1794223	Misoprostol
+1794223	Ranitidine
+1794223	Ibuprofen
+1722410	Bleomycin
+1722410	Etoposide
+1722410	Indomethacin
+1722410	Methotrexate
+1758211	Ibuprofen
+1682470	Acetaminophen
+1682470	Ibuprofen
+1855032	Lithium
+1855032	Ibuprofen
+1674601	Acetaminophen
+1674601	Theophylline
+1674601	Aspirin
+1674601	Ibuprofen
+2015162	Digoxin
+2015162	Ibuprofen
+2015162	Indomethacin
+2000781	Ibuprofen
+2245092	Codeine
+2245092	Ibuprofen
+2258452	Lithium
+2212855	Captopril
+2212855	Ibuprofen
+2088766	Piroxicam
+2088766	Apazone
+2088766	Diazepam
+2088766	Ibuprofen
+2213774	Flurbiprofen
+2213774	Ibuprofen
+2213774	Methotrexate
+2201204	Water
+2201204	Captopril
+2201204	Sodium
+2201204	Ibuprofen
+2167801	Captopril
+2167801	Sodium
+2167801	Ibuprofen
+2329509	brequinar
+2329509	Aspirin
+2329509	Ibuprofen
+2319476	Hydrogen
+2319476	Dinoprost
+2319476	Ibuprofen
+1969784	Iron
+2109074	Misoprostol
+2109074	Propranolol
+2109074	Alprostadil
+2109074	Diazepam
+2109074	Antipyrine
+2573442	Charcoal
+2573442	Salicylic Acid
+2573442	Aspirin
+2772693	Lithium
+2772693	Ibuprofen
+2775619	Cimetidine
+2775619	Ibuprofen
+2730989	Warfarin
+2730989	Ibuprofen
+2784662	Ibuprofen
+2784662	Methotrexate
+2668495	alminoprofen
+2668495	Kaolin
+2668495	Captopril
+2668495	Acetylcholine
+2668495	Ibuprofen
+2668495	Indomethacin
+2783873	Warfarin
+2783873	Ibuprofen
+2786217	Ibuprofen
+2618985	Ibuprofen
+2618985	Methotrexate
+2500054	3-mercaptopicolinic acid
+2500054	hydroxycitric acid
+2500054	Glucose
+2500054	Ibuprofen
+2494673	Ibuprofen
+3236208	laurocapram
+3236208	Ethanol
+3236208	Ibuprofen
+3236208	Indomethacin
+3266606	480156-S
+3266606	Cimetidine
+3266606	Cytochrome P-450 Enzyme System
+3266606	Pentobarbital
+3266606	Diazepam
+3266606	Ibuprofen
+3266606	Oxygenases
+3266606	7-Alkoxycoumarin O-Dealkylase
+3229792	enfenamic acid
+3229792	Copper
+3229792	Ibuprofen
+2852278	Dronabinol
+2852278	delta9)-tetrahydrocannabinolic acid
+2852278	Ibuprofen
+3395672	Cefixime
+3395672	Cefotaxime
+3258319	Ibuprofen
+2905991	Cimetidine
+2905991	Nizatidine
+2905991	Ibuprofen
+2837564	Bromocriptine
+2837564	Warfarin
+2837564	Enalapril
+2837564	Digoxin
+2837564	Cimetidine
+2837564	Captopril
+2837564	Ibuprofen
+3315620	Piroxicam
+3315620	tenoxicam
+3436338	Warfarin
+2883408	Beclomethasone
+2883408	Albuterol
+2883408	Ibuprofen
+3665393	aluminum hydroxide, magnesium hydroxide, drug combination
+3665393	Aluminum Hydroxide
+3665393	Magnesium Hydroxide
+3665393	Ibuprofen
+3301148	Cimetidine
+3558329	Lithium
+3558329	Creatinine
+3558329	Ibuprofen
+3105360	Angiotensin II
+3105360	Arachidonic Acid
+3105360	4,5-Dihydro-1-3-trifluoromethyl)phenyl)-1H-pyrazol-3-amine
+3105360	Halothane
+3105360	Ibuprofen
+3038070	Propyl Gallate
+3038070	Eicosapentaenoic Acid
+3038070	Methylene Blue
+3030141	Superoxides
+3030141	Meclofenamic Acid
+3030141	Thromboxane B2
+3030141	6-Ketoprostaglandin F1 alpha
+3030141	Ibuprofen
+3030141	Thrombin
+3027173	Leukotriene B4
+3027173	Arachidonic Acid
+3027173	Leukotriene E4
+3027173	Dinoprostone
+3027173	Indomethacin
+3447126	Acetaminophen
+3447126	flupirtine
+3447126	Aspirin
+3447126	Ibuprofen
+3447126	Indomethacin
+3112809	Valproic Acid
+3112809	Ammonia
+3112809	Salicylic Acid
+3112809	2,4-Dinitrophenol
+3536423	oxaprozin
+3779035	Sucralfate
+3779035	Ibuprofen
+3728515	Propranolol
+3728515	Verapamil
+3728515	Ibuprofen
+3526298	Ketoprofen
+3514678	Sulindac
+3514678	6-Ketoprostaglandin F1 alpha
+3514678	Creatinine
+3514678	Epoprostenol
+3514678	Nifedipine
+3514678	Dinoprostone
+3514678	Potassium
+3514678	Calcium
+3514678	Ibuprofen
+3514678	Prazosin
+3514678	Indomethacin
+3954932	Phenytoin
+3954932	Ibuprofen
+3956563	timegadine
+3956563	Ibuprofen
+3541005	Guanfacine
+3516751	Ibuprofen
+4064467	Cimetidine
+4064467	Ranitidine
+4064467	Ibuprofen
+3908075	Suprofen
+3931088	Arginine Vasopressin
+3931088	Meclofenamic Acid
+3931088	Ibuprofen
+2998203	Water
+2998203	Vasopressins
+2998203	Sodium
+2998203	Cyclic AMP
+2998203	Bradykinin
+2998203	Ibuprofen
+2998203	Indomethacin
+2998203	Pertussis Toxin
+4057061	Piroxicam
+4057061	Meclofenamic Acid
+4057061	Naproxen
+4057061	Diflunisal
+4057061	Tolmetin
+4057061	Phenylbutazone
+4057061	Aspirin
+4057061	Fenoprofen
+4057061	Ibuprofen
+4057061	Indomethacin
+4036935	Ethanol
+4036935	Aspirin
+4036935	Ibuprofen
+4069236	Ibuprofen
+4076417	Diclofenac
+4076417	Morphine
+4076417	Ibuprofen
+4076417	Indomethacin
+4053523	Ibuprofen
+4028621	Doxepin
+4028621	methyl nicotinate
+4028621	Aspirin
+4028621	Ibuprofen
+4028621	Indomethacin
+2867832	Ibuprofen
+3974406	Warfarin
+3974406	Phenylbutazone
+3886353	tiaprofenic acid
+3886353	Naproxen
+3886353	Aspirin
+3886353	Indomethacin
+2579584	Vasopressins
+2579584	8-Bromo Cyclic Adenosine Monophosphate
+2579584	Thromboxane B2
+2579584	Cyclic AMP
+2579584	Dinoprostone
+2579584	1-Methyl-3-isobutylxanthine
+2579584	Ibuprofen
+2579584	Phospholipases
+3926371	Lysine
+3926371	solufenum
+3926371	Ibuprofen
+4043439	Ethanol
+4043439	Ibuprofen
+4043439	Alkaline Phosphatase
+3969852	Ibuprofen
+3871686	Diflunisal
+3871686	zomepirac
+3871686	Tolmetin
+3871686	Aspirin
+3871686	Ibuprofen
+2864708	Benzodiazepines
+2864708	methylxanthine
+2864708	Acetaminophen
+2864708	Procaine
+2864708	Cimetidine
+2864708	Lidocaine
+2864708	diaziquone
+2864708	Imipramine
+2864708	Aspirin
+2864708	Ibuprofen
+6150987	Meptazinol
+6150987	Ibuprofen
+6487504	Cimetidine
+6487504	Ibuprofen
+6386426	Piroxicam
+6500764	Phenylbutazone
+6500764	Ibuprofen
+6500764	Chlorpropamide
+6239888	Sulfadiazine
+6239888	Butylscopolammonium Bromide
+6239888	Dipyrone
+6239888	Tetracycline
+6239888	Oxyphenbutazone
+6239888	Aspirin
+6239888	Ibuprofen
+6465162	Sulindac
+6465162	Acetaminophen
+6465162	Aspirin
+6465162	Ibuprofen
+6431807	Warfarin
+6431807	Phenytoin
+6431807	Digoxin
+6431807	Lithium
+6431807	Aspirin
+6431807	Ibuprofen
+6431807	Indomethacin
+6235745	Warfarin
+6235745	Aspirin
+6235745	Ibuprofen
+6738449	Ibuprofen
+6712310	Salicylic Acid
+6712310	Ibuprofen
+6718807	Cimetidine
+6718807	Proadifen
+6718807	Ibuprofen
+6697891	Digoxin
+6697891	Ibuprofen
+6423406	Naproxen
+6423406	Ibuprofen
+6423406	Epinephrine
+6627831	Acetaminophen
+6627831	Ibuprofen
+6136240	Methylprednisolone Hemisuccinate
+6136240	Ibuprofen
+6136240	Methylprednisolone
+6409656	Morphine
+6839961	Digoxin
+6839961	Ibuprofen
+6604023	Salicylic Acid
+6824810	Serotonin
+6343454	zomepirac
+6343454	Tolmetin
+6343454	Ibuprofen
+7123429	Phenytoin
+7123429	Ibuprofen
+6816243	Prostaglandin-Endoperoxide Synthases
+7172338	Epirizole
+7172338	Ibuprofen
+7111202	Ibuprofen
+6763202	Codeine
+6763202	Aspirin
+6763202	Ibuprofen
+7062964	Aspirin
+7062964	Ibuprofen
+7062964	Indomethacin
+7075085	Flurbiprofen
+7075085	Warfarin
+7075085	Salicylic Acid
+7075085	Ibuprofen
+7075085	Indomethacin
+7300710	Pindolol
+7300710	Ibuprofen
+6792430	Arachidonic Acid
+6792430	Ibuprofen
+6792430	Indomethacin
+7440513	Lithium
+7440513	Ibuprofen
+7440513	Indomethacin
+7408965	Carrageenan
+7422016	Amodiaquine
+6772422	Diclofenac
+6772422	Naproxen
+6772422	Aspirin
+6772422	Ibuprofen
+6772422	Indomethacin
+6105183	Phenprocoumon
+7377119	Acetaminophen
+7377119	Digoxin
+7377119	Quinine
+7377119	Quinidine
+7377119	Aspirin
+7377119	Ibuprofen
+7377119	Indomethacin
+391529	Flurbiprofen
+391117	Ibuprofen
+387372	Naproxen
+506746	Sodium Salicylate
+506746	Indomethacin
+488131	Ethanol
+488131	Magnesium
+488131	Aspirin
+488131	Calcium
+488131	Esterases
+355965	Aspirin
+355965	Ibuprofen
+657826	Aspirin
+657826	Ibuprofen
+657826	Indomethacin
+405188	Flurbiprofen
+405188	Ibuprofen
+405188	Indomethacin
+405188	Mixed Function Oxygenases
+300197	Aspirin
+300197	Ibuprofen
+1070518	Pregnenolone Carbonitrile
+1070518	Thyroxine
+813951	Warfarin
+813951	Thromboplastin
+813951	Ibuprofen
+1173655	Aspirin
+1173655	Ibuprofen
+1153803	Mefenamic Acid
+1153803	Phenylbutazone
+1153803	Aspirin
+1153803	Ibuprofen
+1153803	Indomethacin
+1122255	Hexobarbital
+1122255	Ascorbic Acid
+1122255	Ibuprofen
+1122255	Phenobarbital
+1122255	Aminopyrine N-Demethylase
+4445574	Freund's Adjuvant
+4445574	Aspirin
+4202799	Pentobarbital
+4202799	Phenobarbital
+4202799	Sulfatases
+4202799	Glucuronidase
+4579839	Antistreptolysin
+4579839	C-Reactive Protein
+4579839	Aspirin

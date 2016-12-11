@@ -1,0 +1,5 @@
+sampleTimes	1000
+cutoff	1
+p_value	0.1
+z_score	1.2816
+endDate	2015/12/31

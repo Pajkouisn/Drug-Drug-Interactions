@@ -1,0 +1,1279 @@
+Creatine Kinase~
+Steroid 11-beta-Hydroxylase~Cholesterol Side-Chain Cleavage Enzyme~
+Prostaglandin-Endoperoxide Synthases~Intramolecular Oxidoreductases~prostacyclin synthetase~Thromboxane-A Synthase~
+Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~
+Novozyme 435~Lipase~
+Cyclooxygenase 2~
+Oxidoreductases~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, rat~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, rat~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~NADPH-Ferrihemoprotein Reductase~
+Arachidonate 5-Lipoxygenase~Prostaglandin-Endoperoxide Synthases~
+Nitric Oxide Synthase~Nitric Oxide Synthase Type II~Nos2 protein, mouse~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~Cyp2c6 protein, rat~Steroid 21-Hydroxylase~
+Peptidyl-Dipeptidase A~Renin~
+Prostaglandin-Endoperoxide Synthases~
+Oxygenases~
+Neprilysin~
+Prostaglandin-Endoperoxide Synthases~
+Amidohydrolases~Hydro-Lyases~nitrile hydratase~
+Glucuronosyltransferase~
+Cybb protein, rat~NADPH Oxidase~p22-phox protein, rat~Proto-Oncogene Proteins c-akt~Matrix Metalloproteinase 2~
+Esterases~alpha-Amylases~
+Cyclooxygenase 2~
+Acetylcholinesterase~
+Prostaglandin-Endoperoxide Synthases~
+Nitric Oxide Synthase~Amino Acid Oxidoreductases~
+Cyclooxygenase 1~Cyclooxygenase 2~Intramolecular Oxidoreductases~prostacyclin synthetase~Thromboxane-A Synthase~
+Glucuronosyltransferase~
+Prostaglandin-Endoperoxide Synthases~
+Protein-Tyrosine Kinases~Syk kinase~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Tissue Plasminogen Activator~
+Mitogen-Activated Protein Kinase 14~
+L-Iditol 2-Dehydrogenase~Aspartate Aminotransferases~Alanine Transaminase~
+L-Lactate Dehydrogenase~Nitric Oxide Synthase Type I~Cyclooxygenase 1~Cyclooxygenase 2~NADPH Oxidase~Glutamate Decarboxylase~glutamate decarboxylase 2~
+Peroxidases~Arachidonate 5-Lipoxygenase~Cyclooxygenase 1~Cyclooxygenase 2~Ptgs1 protein, rat~Ptgs2 protein, rat~Phospholipases A2~
+Cyclooxygenase 2~
+Mixed Function Oxygenases~NADPH-Ferrihemoprotein Reductase~flavocytochrome P450 BM3 monoxygenases~
+Phosphatidylinositol 3-Kinases~Proto-Oncogene Proteins c-akt~
+Cyclooxygenase 2~
+Hydroxysteroid Dehydrogenases~AKR1C2 protein, human~
+Sodium-Potassium-Exchanging ATPase~
+Alkaline Phosphatase~
+Hexosaminidases~Acetylglucosaminidase~
+Protein Kinase C~Lipoprotein Lipase~
+Aspartic Acid Endopeptidases~signal peptide peptidase~
+Renin~
+Lipase~
+Glucuronidase~
+Peptide Hydrolases~
+Sugar Alcohol Dehydrogenases~Aldehyde Reductase~
+Peroxidase~Lactoferrin~
+Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Cyclooxygenase 1~
+Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Lipoxygenase~Prostaglandin-Endoperoxide Synthases~
+Choline O-Acetyltransferase~Glutamate Decarboxylase~
+Prostaglandin-Endoperoxide Synthases~Monoamine Oxidase~
+Lipase~
+Muramidase~
+Phosphatidylinositol 3-Kinase~Oncogene Protein v-akt~
+Cyclooxygenase 1~
+Factor VIIa~
+Cytochrome P-450 CYP1A1~Cytochrome P-450 CYP1A2~Aldehyde Dehydrogenase~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, mouse~
+Superoxide Dismutase~
+Arachidonate 5-Lipoxygenase~Cyclooxygenase 1~Cyclooxygenase 2~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Deoxyribonucleases~
+Cyclooxygenase 1~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~
+Arachidonate Lipoxygenases~Prostaglandin-Endoperoxide Synthases~Thromboxane-A Synthase~
+Peroxidase~Muramidase~Glucuronidase~Pepsin A~Gelatinases~
+Cyclooxygenase 2~PTGS2 protein, human~
+Thrombin~
+glycogen synthase kinase 3 beta~Glycogen Synthase Kinase 3~Amyloid Precursor Protein Secretases~
+Thrombin~
+Lipase~
+Amyloid Precursor Protein Secretases~Endopeptidases~Aspartic Acid Endopeptidases~Bace1 protein, mouse~
+Thromboxane-A Synthase~
+Phospholipases A~
+Monoacylglycerol Lipases~
+Glucuronidase~Peptide Hydrolases~
+Arachidonate 5-Lipoxygenase~
+Prostaglandin-Endoperoxide Synthases~p38 Mitogen-Activated Protein Kinases~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Nitric Oxide Synthase Type II~Cyclooxygenase 2~
+Renin~
+L-Lactate Dehydrogenase~Aspartate Aminotransferases~Alanine Transaminase~
+Peptide Hydrolases~Seaprose S~Serine Endopeptidases~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~CYP3A4 protein, human~Aryl Hydrocarbon Hydroxylases~CYP2C8 protein, human~Cytochrome P-450 CYP2C8~Cytochrome P-450 CYP3A~
+Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~Glutathione Transferase~leukotriene-C4 synthase~
+Racemases and Epimerases~2-arylpropionyl-CoA epimerase~
+Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~
+Nitric Oxide Synthase~
+Thromboxane-A Synthase~
+Prostaglandin-Endoperoxide Synthases~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~CYP2C8 protein, human~Cytochrome P-450 CYP2C8~
+rho-Associated Kinases~
+Nitric Oxide Synthase Type II~NADPH Oxidase~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Amidohydrolases~fatty-acid amide hydrolase~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, rat~
+Lipase~
+Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Thiolester Hydrolases~ACOT2 protein, human~Palmitoyl-CoA Hydrolase~
+Glucuronosyltransferase~
+Creatine Kinase~
+Peroxidase~
+ras Proteins~
+Cyclooxygenase 2~
+Nitric Oxide Synthase~
+Nitric Oxide Synthase~Nitric Oxide Synthase Type III~Nos3 protein, rat~Guanylate Cyclase~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~
+Mixed Function Oxygenases~
+Glucuronidase~
+Creatine Kinase~Glucuronidase~Cathepsins~
+Lipase~
+Pertussis Toxin~GTP-Binding Proteins~
+Prostaglandin-Endoperoxide Synthases~
+Mixed Function Oxygenases~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Racemases and Epimerases~Coenzyme A Ligases~
+Prostaglandin-Endoperoxide Synthases~
+Phospholipases~Cathepsins~Serine Endopeptidases~CTSG protein, human~Cathepsin G~Pancreatic Elastase~Leukocyte Elastase~
+Amino Acid Oxidoreductases~1-aminocyclopropane-1-carboxylic acid oxidase~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Lipase~Chitinase~Peptide Hydrolases~
+Mixed Function Oxygenases~peroxygenase~
+Lipase~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Peptidyl-Dipeptidase A~
+Lipoxygenase~Monophenol Monooxygenase~Prostaglandin-Endoperoxide Synthases~
+prostaglandin hydroperoxidase~Peroxidases~Prostaglandin-Endoperoxide Synthases~Thrombin~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Phospholipases A~
+Peroxidases~Prostaglandin-Endoperoxide Synthases~
+NOS2 protein, human~Nitric Oxide Synthase~Nitric Oxide Synthase Type II~Nos2 protein, mouse~
+Phospholipases A~Group IV Phospholipases A2~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+L-Lactate Dehydrogenase~Aspartate Aminotransferases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~
+Lipoxygenase~Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, mouse~Phospholipases A~Phospholipases A2~Matrix Metalloproteinases~
+Acetylcholinesterase~
+Lipoxygenase~
+Lipase~
+Sulfotransferases~Arylsulfotransferase~SULT1A1 protein, human~estrone sulfotransferase~
+Catalase~Fumarate Hydratase~
+Alkaline Phosphatase~
+Arylamine N-Acetyltransferase~
+Prostaglandin-Endoperoxide Synthases~
+Nitric Oxide Synthase~
+Prostaglandin-Endoperoxide Synthases~
+Alcohol Oxidoreductases~
+Carboxy-Lyases~
+Acid Phosphatase~
+Aspartate Aminotransferases~Alkaline Phosphatase~
+L-Lactate Dehydrogenase~
+Matrix Metalloproteinase 13~Mmp13 protein, rat~
+3-Hydroxyacyl CoA Dehydrogenases~Mitochondrial Trifunctional Protein~
+Protein Kinase C-epsilon~Matrix Metalloproteinase 2~Matrix Metalloproteinase 9~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Cyclooxygenase 2~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~
+Thromboxane-A Synthase~
+Protein Kinase C~
+Catalase~Superoxide Dismutase~
+Catalase~Glutathione Peroxidase~Superoxide Dismutase~
+Telomerase~
+Coenzyme A Ligases~FAA2 protein, S cerevisiae~long-chain-fatty-acid-CoA ligase~
+Amyloid Precursor Protein Secretases~
+Aspartate Aminotransferases~Alanine Transaminase~
+Peroxidase~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Oxidoreductases~ammonia monooxygenase~
+Thromboxane-A Synthase~
+Nitric Oxide Synthase~
+Prostaglandin-Endoperoxide Synthases~
+Receptor, IGF Type 1~Receptor, Insulin~Protein-Serine-Threonine Kinases~Ribosomal Protein S6 Kinases~Protein Kinase C~Phospholipases A~Phospholipases A2~Type C Phospholipases~Phospholipase D~
+Nitric Oxide Synthase~
+Arachidonate Lipoxygenases~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~UDP-glucuronosyltransferase, UGT1A6~Glucuronosyltransferase~
+Kallikreins~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Carboxy-Lyases~Histidine Decarboxylase~
+rhoA GTP-Binding Protein~
+alpha-Amylases~
+Renin~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Aspartate Aminotransferases~Alanine Transaminase~
+Monoamine Oxidase~
+Guanylate Cyclase~
+Prostaglandin-Endoperoxide Synthases~Protein Kinase C~
+Lipoxygenase~
+Cytochrome P-450 CYP1A1~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Adenosine Triphosphatases~
+Coenzyme A Ligases~FAA2 protein, S cerevisiae~long-chain-fatty-acid-CoA ligase~
+Phospholipases A~Phospholipases A2~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Hydroxymethyl and Formyl Transferases~Phosphoribosylaminoimidazolecarboxamide Formyltransferase~Acyltransferases~
+Lipase~
+Lipoxygenase~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, rat~
+Phospholipases A~
+Muramidase~
+Amidohydrolases~fatty-acid amide hydrolase~
+L-Lactate Dehydrogenase~
+Cyclooxygenase 2~
+Cyclooxygenase 2~
+Arachidonate 5-Lipoxygenase~
+Matrix Metalloproteinase 9~
+Catalase~Peroxidase~
+Lipase~
+ALPL protein, mouse~Alkaline Phosphatase~
+Cyclooxygenase 2~Serine Endopeptidases~prostasin~ST14 protein, human~
+NOS2 protein, human~Nitric Oxide Synthase~Nitric Oxide Synthase Type II~Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Creatine Kinase~
+Nitric Oxide Synthase Type II~
+Protein Kinase C~
+UGT1A1 enzyme~Glucuronosyltransferase~
+Peroxidases~Prostaglandin-Endoperoxide Synthases~Peptide Hydrolases~Trypsin~
+ERBB4 protein, human~Receptor, Epidermal Growth Factor~Receptor, ErbB-4~Amyloid Precursor Protein Secretases~Endopeptidases~Aspartic Acid Endopeptidases~BACE1 protein, human~
+Cyclooxygenase 2~
+Renin~
+Prostaglandin-Endoperoxide Synthases~
+Ptgs2 protein, mouse~Cyclooxygenase 2~
+Xanthine Oxidase~
+Protein-Serine-Threonine Kinases~rho-Associated Kinases~Amyloid Precursor Protein Secretases~Endopeptidases~Aspartic Acid Endopeptidases~BACE1 protein, human~Bace1 protein, mouse~rho GTP-Binding Proteins~rhoA GTP-Binding Protein~
+Catalase~
+Prostaglandin-Endoperoxide Synthases~Protein Kinase C~Mitogen-Activated Protein Kinases~p38 Mitogen-Activated Protein Kinases~
+Aldehyde Oxidoreductases~
+Peptide Hydrolases~
+Renin~
+Superoxide Dismutase~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Nitric Oxide Synthase~Prostaglandin-Endoperoxide Synthases~
+Catalase~
+L-Lactate Dehydrogenase~
+Superoxide Dismutase~
+CYP2C9 protein, rat~
+Catalase~Glutathione Peroxidase~Superoxide Dismutase~Glutathione Transferase~leukotriene-C4 synthase~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Amidohydrolases~fatty-acid amide hydrolase~
+Hydrolases~Acid Phosphatase~Arylsulfatases~Glycoside Hydrolases~Cathepsins~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~
+Apoproteina)~
+Prostaglandin-Endoperoxide Synthases~
+Alkaline Phosphatase~
+Prostaglandin-Endoperoxide Synthases~
+Steroid 11-beta-Hydroxylase~Steroid 17-alpha-Hydroxylase~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, rat~
+Thrombin~
+Complement Factor I~Complement Factor B~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Acyltransferases~
+Nitric Oxide Synthase Type II~Nitric Oxide Synthase Type III~Nos3 protein, rat~
+Leukocyte Elastase~
+Prostaglandin-Endoperoxide Synthases~
+Nitric Oxide Synthase~Thromboxane-A Synthase~
+Tyrosine 3-Monooxygenase~
+Lipoxygenase~Prostaglandin-Endoperoxide Synthases~
+Amidohydrolases~amidase~
+Protein Kinase C~Calcium-Calmodulin-Dependent Protein Kinases~Glycogen Synthase Kinase 3~
+Arachidonate 12-Lipoxygenase~
+3-Hydroxysteroid Dehydrogenases~Hydroxysteroid Dehydrogenases~AKR1C2 protein, human~AKR1C3 protein, human~Hydroxyprostaglandin Dehydrogenases~CYP3A4 protein, human~CYP3A5 protein, human~Cytochrome P-450 CYP3A~
+Arylamine N-Acetyltransferase~
+Thiolester Hydrolases~Palmitoyl-CoA Hydrolase~
+Phospholipases A~Lipase~Phospholipases A2~
+Amyloid Precursor Protein Secretases~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Nitric Oxide Synthase~Prostaglandin-Endoperoxide Synthases~
+Tissue Plasminogen Activator~
+Prostate-Specific Antigen~
+Peroxidase~
+Lipoxygenase~
+Racemases and Epimerases~2-arylpropionyl-CoA epimerase~Coenzyme A Ligases~
+Arachidonate 5-Lipoxygenase~Mitogen-Activated Protein Kinases~
+Peroxidase~
+Arachidonate 5-Lipoxygenase~Cyclooxygenase 2~
+Thromboxane-A Synthase~
+Nitric Oxide Synthase~Nitric Oxide Synthase Type II~Nos2 protein, rat~
+Hydrolases~
+Collagenases~MMP13 protein, human~Matrix Metalloproteinase 13~Matrix Metalloproteinases~Matrix Metalloproteinase 3~
+glycogen synthase kinase 3 beta~Glycogen Synthase Kinase 3~
+Esterases~
+Oxidoreductases~Thromboxane-A Synthase~
+Trypsin~
+Peroxidase~Nitric Oxide Synthase~
+Phospholipases A~Lipoprotein Lipase~Phospholipases A2~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Luciferases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Cyclooxygenase 2~
+Lipase~
+Ptgs2 protein, mouse~Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Ptgs1 protein, mouse~
+Aromatase~
+Arachidonate 5-Lipoxygenase~Prostaglandin-Endoperoxide Synthases~
+Arachidonate 5-Lipoxygenase~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~
+Nitric Oxide Synthase Type II~Galactosylceramidase~
+Papain~
+AMP-Activated Protein Kinases~
+Hyaluronoglucosaminidase~
+Muramidase~
+Thromboxane-A Synthase~
+Phospholipases A~
+Cyclooxygenase 2~Ptgs2 protein, rat~
+Luciferases~Nitric Oxide Synthase~
+Cyclooxygenase 2~NADH, NADPH Oxidoreductases~tumor-associated NADH oxidase~
+Racemases and Epimerases~alpha-methylacyl-CoA racemase~
+Luciferases~p38 Mitogen-Activated Protein Kinases~
+Matrix Metalloproteinase 9~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS2 protein, human~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Lipoxygenase~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+p38 Mitogen-Activated Protein Kinases~Dual Specificity Phosphatase 1~
+Sugar Alcohol Dehydrogenases~Aldehyde Reductase~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Aspartate Aminotransferases~Alanine Transaminase~
+Mixed Function Oxygenases~fatty acid alpha-hydroxylase~
+Prostaglandin-Endoperoxide Synthases~cyclooxygenase-3~
+Prostaglandin-Endoperoxide Synthases~Amyloid Precursor Protein Secretases~Endopeptidases~Aspartic Acid Endopeptidases~BACE1 protein, human~Bace1 protein, mouse~
+Oxidoreductases~3-Hydroxysteroid Dehydrogenases~trans-1,2-dihydrobenzene-1,2-diol dehydrogenase~
+H+)-K+)-Exchanging ATPase~
+Nitric Oxide Synthase~Prostaglandin-Endoperoxide Synthases~
+Hydroxyprostaglandin Dehydrogenases~
+Glucuronosyltransferase~
+Lipase~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~CYP2C8 protein, human~Cytochrome P-450 CYP2C8~
+Mixed Function Oxygenases~Prostaglandin-Endoperoxide Synthases~
+Aminopeptidases~
+Catalase~Arachidonate Lipoxygenases~Superoxide Dismutase~
+Nitric Oxide Synthase~Thromboxane-A Synthase~
+Nitric Oxide Synthase Type I~Nitric Oxide Synthase Type II~
+Cytidine Deaminase~
+Hydroxyprostaglandin Dehydrogenases~15-hydroxyprostaglandin dehydrogenase~
+Monoamine Oxidase~
+GTP-Binding Proteins~Sept8 protein, rat~Septins~
+Adenylyl Cyclases~
+Thromboxane-A Synthase~
+Phospholipases A~
+Nitric Oxide Synthase~Nitric Oxide Synthase Type II~Nos2 protein, mouse~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Amyloid Precursor Protein Secretases~Endopeptidases~Aspartic Acid Endopeptidases~Bace1 protein, mouse~
+Oxidoreductases~Thromboxane-A Synthase~
+Renin~
+Extracellular Signal-Regulated MAP Kinases~
+Nitric Oxide Synthase Type II~
+5'-Nucleotidase~
+Prostaglandin-Endoperoxide Synthases~
+Matrix Metalloproteinase 3~
+Lipase~
+Glutathione Transferase~
+NADPH Oxidase~Protein-Tyrosine Kinases~
+Thromboxane-A Synthase~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, rat~Mitogen-Activated Protein Kinase 1~
+Adenylyl Cyclases~
+Arachidonate Lipoxygenases~Lipoxygenase~
+Peroxidase~
+Arachidonate Lipoxygenases~
+Eosinophil-Derived Neurotoxin~
+UGT2B7 protein, human~Glucuronosyltransferase~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, rat~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~
+Matrix Metalloproteinase 3~
+Horseradish Peroxidase~
+Oxidoreductases~Thromboxane-A Synthase~
+rhoA GTP-Binding Protein~
+Cyclooxygenase 2~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Superoxide Dismutase~Transaminases~
+Prostaglandin-Endoperoxide Synthases~Isomerases~Intramolecular Oxidoreductases~prostaglandin-E synthase~
+Lipase~
+Cyclooxygenase 2~
+Cyclooxygenase 2~
+Aspartate Aminotransferases~
+Peptide Hydrolases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Catalase~Superoxide Dismutase~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Fatty Acid Synthases~Racemases and Epimerases~2-arylpropionyl-CoA epimerase~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~Protein Kinases~tropomyosin kinase~
+Prostaglandin-Endoperoxide Synthases~Matrix Metalloproteinases~
+Phosphorylases~
+Laccase~
+Catalase~Glutathione Peroxidase~Superoxide Dismutase~
+Prostaglandin-Endoperoxide Synthases~Phosphorylases~
+Electron Transport Complex IV~
+UGT1A1 enzyme~Glucuronosyltransferase~
+Esterases~
+Cytochrome P-450 CYP3A~
+Esterases~
+Glucuronosyltransferase~
+Lipoxygenase~
+Cyclooxygenase 2~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~CYP2C8 protein, human~Cytochrome P-450 CYP2C8~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Nitric Oxide Synthase Type II~
+Sodium-Potassium-Exchanging ATPase~
+L-Lactate Dehydrogenase~
+Amyloid Precursor Protein Secretases~
+AMP-Activated Protein Kinases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Lipoxygenase~Nitric Oxide Synthase~Amino Acid Oxidoreductases~Glutathione Transferase~Phospholipases A~Phospholipases A2~
+L-Lactate Dehydrogenase~Xanthine Oxidase~
+Prostaglandin-Endoperoxide Synthases~
+Guanylate Cyclase~
+Phosphopyruvate Hydratase~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, rat~
+Caspases~
+L-Lactate Dehydrogenase~Catalase~Superoxide Dismutase~
+Endopeptidases~
+Cyclooxygenase 2~
+Hydroxyprostaglandin Dehydrogenases~15-hydroxyprostaglandin dehydrogenase~Cyclooxygenase 1~
+Catalase~Glutathione Peroxidase~Superoxide Dismutase~
+Renin~
+Prostaglandin-Endoperoxide Synthases~
+Hydrolases~Racemases and Epimerases~Coenzyme A Ligases~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Nitric Oxide Synthase~Aryl Hydrocarbon Hydroxylases~
+Alkaline Phosphatase~
+Nitric Oxide Synthase~Nitric Oxide Synthase Type II~Nos2 protein, rat~
+Lipase~
+Nitric Oxide Synthase~
+Phospholipases~Phospholipases A~Phospholipases A2~
+Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Pertussis Toxin~Protein Kinase C~
+Prostaglandin-Endoperoxide Synthases~Peptide Hydrolases~tosylarginine methyl ester hydrolase~
+Coenzyme A Ligases~
+Nitric Oxide Synthase~Nitric Oxide Synthase Type I~Nitric Oxide Synthase Type II~Nitric Oxide Synthase Type III~Nos1 protein, rat~Nos2 protein, rat~Nos3 protein, rat~
+Catalase~Superoxide Dismutase~Glutathione Reductase~Glutathione Transferase~
+Cyclooxygenase 2~PTGS2 protein, human~
+Carboxy-Lyases~malonate decarboxylase~
+Prostaglandin-Endoperoxide Synthases~
+tartrate-resistant acid phosphatase~Alkaline Phosphatase~Acid Phosphatase~Carbonic Anhydrases~
+Aryl Hydrocarbon Hydroxylases~CYP2C8 protein, human~Cytochrome P-450 CYP2C8~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Catalase~Superoxide Dismutase~Thromboxane-A Synthase~
+Nitric Oxide Synthase~Nitric Oxide Synthase Type III~
+Cyclooxygenase 1~Cyclooxygenase 2~Proto-Oncogene Proteins c-akt~Ribosomal Protein S6 Kinases, 70-kDa~MAPK1 protein, human~Mitogen-Activated Protein Kinase 1~
+Electron Transport Complex I~
+Catalase~Prostaglandin-Endoperoxide Synthases~
+4-methylumbelliferone glucuronyltransferase~Glucuronosyltransferase~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, rat~
+Caspases~
+Cyclooxygenase 1~Prostaglandin-Endoperoxide Synthases~
+Thromboxane-A Synthase~
+Nitric Oxide Synthase~
+Aromatase~Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Arachidonate 12-Lipoxygenase~Arachidonate 15-Lipoxygenase~
+Cyclooxygenase 1~PTGS1 protein, human~
+Aspartate Aminotransferases~Alanine Transaminase~
+Protein Kinase C~Mitogen-Activated Protein Kinases~Phospholipases A~Phospholipases A2~
+NADPH Oxidase~
+Lipase~Amylases~
+Arachidonate Lipoxygenases~
+Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+3',5'-Cyclic-AMP Phosphodiesterases~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Prostaglandin-Endoperoxide Synthases~
+Amidohydrolases~fatty-acid amide hydrolase~
+Amyloid Precursor Protein Secretases~
+Lipase~
+UDP-glucuronosyltransferase, UGT1A3~UGT2B7 protein, human~Glucuronosyltransferase~UDP-glucuronosyltransferase 1A9~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Lipoxygenase~Arachidonate 5-Lipoxygenase~
+Mixed Function Oxygenases~
+Tyrosine 3-Monooxygenase~
+Aspartate Aminotransferases~Alanine Transaminase~
+Alkaline Phosphatase~
+CASP3 protein, human~Caspase 3~Caspases~
+Nitric Oxide Synthase Type II~
+Glucuronosyltransferase~Arylsulfotransferase~
+DNASE1 protein, human~Deoxyribonuclease I~
+Arachidonate 5-Lipoxygenase~
+Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Steroid Hydroxylases~CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~Steroid 16-alpha-Hydroxylase~
+Phosphatidylinositol 3-Kinases~Casp3 protein, mouse~Caspase 3~Caspases~
+Prostaglandin-Endoperoxide Synthases~
+Catalase~Prostaglandin-Endoperoxide Synthases~Adenosine Triphosphatases~Ca2+) Mg2+)-ATPase~
+Lipoxygenase~Arachidonate 12-Lipoxygenase~
+Alcohol Oxidoreductases~haloperidol reductase~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Oxygenases~fatty acid alpha-hydroperoxylase~Prostaglandin-Endoperoxide Synthases~
+NOS2 protein, human~Nitric Oxide Synthase~Nitric Oxide Synthase Type II~Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~
+Renin~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Phospholipases A2, Cytosolic~
+Deoxyribonucleases~
+Arachidonate 5-Lipoxygenase~
+Monophenol Monooxygenase~Superoxide Dismutase~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~Amyloid Precursor Protein Secretases~Endopeptidases~Aspartic Acid Endopeptidases~BACE1 protein, human~Bace1 protein, mouse~
+Ornithine Decarboxylase~
+Lipase~
+p38 Mitogen-Activated Protein Kinases~
+Prostaglandin-Endoperoxide Synthases~
+Xanthine Oxidase~
+Oncogene Protein v-akt~
+Alanine Transaminase~
+Ptgs2 protein, mouse~Cyclooxygenase 2~PTGS2 protein, human~
+Creatine Kinase~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, rat~
+Peroxidase~
+Superoxide Dismutase~
+Creatine Kinase~
+Prostaglandin-Endoperoxide Synthases~
+Matrix Metalloproteinase 3~
+Lipase~
+lipase B, Candida antarctica~Lipase~
+Glucuronosyltransferase~
+UGT2B7 protein, human~Glucuronosyltransferase~Glucuronidase~
+Ornithine Decarboxylase~
+Leukocyte Elastase~
+Peroxidase~
+Lipoxygenase~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Peptide Hydrolases~longolytin~tricholysine~Plasminogen Activators~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+CYP3A4 protein, human~Cytochrome P-450 CYP3A~
+Protein Kinase C~
+Prostaglandin-Endoperoxide Synthases~
+Oxidoreductases~
+gamma-Glutamyltransferase~Glutathione Transferase~
+Matrix Metalloproteinases~
+Oxidoreductases~Acyl-CoA Oxidase~Chloramphenicol O-Acetyltransferase~
+Coenzyme A Ligases~FAA2 protein, S cerevisiae~long-chain-fatty-acid-CoA ligase~
+Coenzyme A Ligases~
+Pancreatic Elastase~
+Ptgs2 protein, mouse~Cyclooxygenase 1~Cyclooxygenase 2~Ptgs1 protein, mouse~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, mouse~Proto-Oncogene Proteins p21ras)~
+Xanthine Oxidase~
+Esterases~
+Aldehyde Reductase~
+Prostaglandin-Endoperoxide Synthases~Thrombin~
+Sugar Alcohol Dehydrogenases~Aldehyde Reductase~
+Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Amyloid Precursor Protein Secretases~Endopeptidases~Aspartic Acid Endopeptidases~BACE1 protein, human~Bace1 protein, mouse~
+Racemases and Epimerases~alpha-methylacyl-CoA racemase~
+Receptor, Epidermal Growth Factor~Proto-Oncogene Proteins c-akt~
+Arachidonate Lipoxygenases~Lipoxygenase~
+Intramolecular Oxidoreductases~hydroperoxide isomerase~
+Peroxidase~Chitinase~
+Thromboxane-A Synthase~
+Prostaglandin-Endoperoxide Synthases~Thromboxane-A Synthase~
+Glucuronosyltransferase~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Thromboxane-A Synthase~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Phosphatidylinositol 3-Kinases~ras Proteins~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Proto-Oncogene Proteins c-kit~
+Cyclooxygenase 1~
+Racemases and Epimerases~alpha-methylacyl-CoA racemase~
+Prostaglandin-Endoperoxide Synthases~
+Steroid Hydroxylases~Aryl Hydrocarbon Hydroxylases~Steroid 16-alpha-Hydroxylase~
+Superoxide Dismutase~
+Renin~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Lipoxygenase~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Ribonucleases~Renin~
+Cyclooxygenase 1~
+Cytochrome P-450 CYP1A1~Glutathione Transferase~
+Arachidonate 15-Lipoxygenase~
+Lipase~
+Arachidonate Lipoxygenases~
+Protein Kinases~
+Racemases and Epimerases~2-arylpropionyl-CoA epimerase~
+Cyclooxygenase 2~PTGS2 protein, human~
+Nitric Oxide Synthase~Prostaglandin-Endoperoxide Synthases~
+Nitric Oxide Synthase~Cyclooxygenase 2~
+Nitric Oxide Synthase~
+Catalase~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, rat~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, rat~
+Coenzyme A Ligases~FAA2 protein, S cerevisiae~long-chain-fatty-acid-CoA ligase~
+Prostaglandin-Endoperoxide Synthases~
+Aldehyde Reductase~
+Fibrinolysin~
+Sodium-Potassium-Exchanging ATPase~
+Cyclooxygenase 1~Cyclooxygenase 2~Intramolecular Oxidoreductases~prostaglandin-E synthase~
+Collagenases~
+Prostaglandin-Endoperoxide Synthases~
+Arachidonate Lipoxygenases~
+Electron Transport Complex IV~
+Coenzyme A Ligases~FAA2 protein, S cerevisiae~long-chain-fatty-acid-CoA ligase~
+Lipase~
+Carboxylic Ester Hydrolases~
+Cathepsins~Peptide Hydrolases~Cathepsin D~
+Lipase~
+Peptide Hydrolases~
+Arachidonate 5-Lipoxygenase~
+NOS2 protein, human~Nitric Oxide Synthase~Nitric Oxide Synthase Type II~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~
+Nitric Oxide Synthase Type II~Cyclooxygenase 2~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Amyloid Precursor Protein Secretases~
+Phospholipases A~
+Superoxide Dismutase~
+Amyloid Precursor Protein Secretases~Endopeptidases~Aspartic Acid Endopeptidases~BACE1 protein, human~Bace1 protein, mouse~
+Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~
+Glucuronosyltransferase~
+Gelatinases~Metalloendopeptidases~progelatinase~
+Oxidoreductases, O-Demethylating~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, mouse~
+Prostaglandin-Endoperoxide Synthases~
+Lipase~Chymotrypsin~
+Coenzyme A Ligases~FAA2 protein, S cerevisiae~long-chain-fatty-acid-CoA ligase~
+Prostaglandin-Endoperoxide Synthases~
+Coenzyme A Ligases~xenobiotic medium chain fatty acid - coenzyme A ligase~Acetate-CoA Ligase~butyryl-CoA synthetase~FAA2 protein, S cerevisiae~long-chain-fatty-acid-CoA ligase~
+Lipase~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~Thrombin~
+Prostaglandin-Endoperoxide Synthases~
+Nitric Oxide Synthase~Nitric Oxide Synthase Type II~Nos2 protein, rat~
+JNK Mitogen-Activated Protein Kinases~p38 Mitogen-Activated Protein Kinases~
+Cytochrome P-450 CYP1A1~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, mouse~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, rat~Thrombin~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Protein Kinase C~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Alanine Transaminase~
+Acid Phosphatase~Glucuronidase~Cathepsin D~Adenosine Triphosphatases~
+Kallikreins~Renin~
+Renin~
+SOD1 G93A protein~Superoxide Dismutase~
+Trypsin~
+Cyclooxygenase 2~Extracellular Signal-Regulated MAP Kinases~
+Proteasome Endopeptidase Complex~
+Sodium-Potassium-Exchanging ATPase~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Collagenases~Metalloendopeptidases~Matrix Metalloproteinase 3~
+Lipase~
+Lipase~
+Lipase~
+Thromboxane-A Synthase~
+Nitric Oxide Synthase~Prostaglandin-Endoperoxide Synthases~
+Ptgs2 protein, mouse~Cyclooxygenase 1~Cyclooxygenase 2~Ptgs1 protein, mouse~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Arachidonate 12-Lipoxygenase~Phospholipases A~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Catalase~
+Glucuronidase~
+Sulfotransferases~
+Nitric Oxide Synthase~Nitric Oxide Synthase Type I~Nos1 protein, rat~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Racemases and Epimerases~alpha-methylacyl-CoA racemase~
+Chitinase~
+Esterases~
+Cyclooxygenase 2~
+Acetylcholinesterase~
+Prostaglandin-Endoperoxide Synthases~
+Pertussis Toxin~
+Renin~
+Prostaglandin-Endoperoxide Synthases~
+Complement C3-C5 Convertases~
+Nitric Oxide Synthase~
+Glucuronosyltransferase~
+Lipoxygenase~Prostaglandin-Endoperoxide Synthases~
+Adenylyl Cyclases~Guanylate Cyclase~
+Steroid Hydroxylases~CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~CYP2C8 protein, human~Cytochrome P-450 CYP2C8~Steroid 16-alpha-Hydroxylase~
+Amyloid Precursor Protein Secretases~
+Cyclooxygenase 1~
+L-Lactate Dehydrogenase~Aspartate Aminotransferases~
+Chondroitin ABC Lyase~
+Farnesyltranstransferase~Isomerases~taxa-45),1112)-diene synthase~
+Collagenases~
+Glyceraldehyde-3-Phosphate Dehydrogenases~
+Phosphopyruvate Hydratase~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Lipoprotein Lipase~
+Nitric Oxide Synthase~Nitric Oxide Synthase Type I~Nitric Oxide Synthase Type II~Nitric Oxide Synthase Type III~
+Telomerase~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~
+Glucuronosyltransferase~UGT2B17 protein, human~
+Aspartate Aminotransferases~Alanine Transaminase~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Lipoxygenase~Prostaglandin-Endoperoxide Synthases~
+Trypsin~
+Nitric Oxide Synthase~Prostaglandin-Endoperoxide Synthases~
+Renin~
+Thromboxane-A Synthase~
+L-Lactate Dehydrogenase~Prostaglandin-Endoperoxide Synthases~Superoxide Dismutase~Xanthine Oxidase~
+Thromboxane-A Synthase~
+L-Lactate Dehydrogenase~
+L-Lactate Dehydrogenase~
+Thromboxane-A Synthase~
+rhoA GTP-Binding Protein~
+Peroxidase~
+Prostaglandin-Endoperoxide Synthases~
+Ceruloplasmin~
+Alkaline Phosphatase~
+Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~
+Peroxidase~
+Mixed Function Oxygenases~Vitamin K Epoxide Reductases~CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~VKORC1 protein, human~
+Coenzyme A Ligases~FAA2 protein, S cerevisiae~long-chain-fatty-acid-CoA ligase~
+Oxygenases~Creatine Kinase~
+Deoxyribonucleases~
+Deoxyribonuclease I~dornase alfa~
+Prostaglandin-Endoperoxide Synthases~Phospholipases~
+Aspartate Aminotransferases~Alanine Transaminase~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Thromboxane-A Synthase~
+Glucuronosyltransferase~
+Amyloid Precursor Protein Secretases~Endopeptidases~Aspartic Acid Endopeptidases~BACE1 protein, human~Bace1 protein, mouse~
+CASP3 protein, human~Caspase 3~Caspases~
+Glutathione Reductase~
+Prostaglandin-Endoperoxide Synthases~
+Glucuronosyltransferase~UGT2B17 protein, human~
+Catalase~Glutathione Peroxidase~Superoxide Dismutase~
+Cyclooxygenase 2~Ptgs2 protein, rat~
+Microbial Collagenase~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclic AMP-Dependent Protein Kinases~Protein Kinase C~
+Nitric Oxide Synthase Type III~Nos3 protein, rat~
+Lipoxygenase~Phospholipases A~Phospholipases A2~
+Peptide Hydrolases~Matrix Metalloproteinases~
+Luciferases~
+Lipoxygenases~Prostaglandin-Endoperoxide Synthases~
+Aspartate Aminotransferases~Alkaline Phosphatase~
+Nitric Oxide Synthase~Nitric Oxide Synthase Type I~Nitric Oxide Synthase Type II~Nitric Oxide Synthase Type III~Nos1 protein, rat~Nos2 protein, rat~Nos3 protein, rat~
+Thrombin~
+Arachidonate 5-Lipoxygenase~Prostaglandin-Endoperoxide Synthases~Thromboxane-A Synthase~
+Adenylyl Cyclases~
+Nitric Oxide Synthase~
+Protein Kinase C~
+Racemases and Epimerases~alpha-methylacyl-CoA racemase~
+Ptgs2 protein, mouse~Cyclooxygenase 2~
+Xanthine Oxidase~
+Nitric Oxide Synthase~Nitric Oxide Synthase Type II~Nos2 protein, rat~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Creatine Kinase~
+Arylamine N-Acetyltransferase~
+Kallikreins~
+Prostaglandin-Endoperoxide Synthases~
+Amyloid Precursor Protein Secretases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Arachidonate 12-Lipoxygenase~Pertussis Toxin~Calcium-Calmodulin-Dependent Protein Kinases~GTP-Binding Proteins~
+Aldehyde Reductase~
+p38 Mitogen-Activated Protein Kinases~
+Prostaglandin-Endoperoxide Synthases~Amidohydrolases~fatty-acid amide hydrolase~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Prostaglandin-Endoperoxide Synthases~
+Ptgs2 protein, mouse~Cyclooxygenase 2~
+Oxygenases~Tryptophan Oxygenase~
+Cyclooxygenase 2~PTGS2 protein, human~
+beta-N-Acetylhexosaminidases~
+Mixed Function Oxygenases~Cytochrome P-450 CYP4A~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, mouse~
+Carbohydrate Dehydrogenases~cellobiose-quinone oxidoreductase~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~
+Glutathione Transferase~Renin~
+Renin~
+Prostaglandin-Endoperoxide Synthases~
+Factor VIIa~
+Glutathione Transferase~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Mixed Function Oxygenases~Cytochrome P-450 CYP4A~
+rho GTP-Binding Proteins~
+Cathepsins~CTSK protein, human~Cathepsin K~Ctsk protein, rat~
+Cyclooxygenase 1~PTGS1 protein, human~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Prostaglandin-Endoperoxide Synthases~
+Muramidase~
+Cyclooxygenase 1~PTGS1 protein, human~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, mouse~
+Botulinum Toxins, Type A~
+Aspartate Aminotransferases~Alanine Transaminase~
+Thromboxane-A Synthase~
+Aspartic Acid Proteases~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Adenosine Triphosphatases~
+Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Thromboxane-A Synthase~
+Cytochrome P-450 CYP3A~
+Nitric Oxide Synthase~Nitric Oxide Synthase Type II~Nos2 protein, rat~Casp3 protein, rat~Caspase 3~Caspases~
+Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cytochrome P-450 CYP2D6~
+Lipase~
+Prostaglandin-Endoperoxide Synthases~
+gamma-Glutamyltransferase~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~CYP2C8 protein, human~Cytochrome P-450 CYP2C8~
+Pdia3 protein, mouse~Protein Disulfide-Isomerases~
+Lipase~
+Prostaglandin-Endoperoxide Synthases~
+Aryl Hydrocarbon Hydroxylases~CYP2C11 protein, rat~Cyp2c6 protein, rat~Steroid 16-alpha-Hydroxylase~Steroid 21-Hydroxylase~
+Amyloid Precursor Protein Secretases~
+Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+guaiacol peroxidase~Ascorbate Peroxidases~Catalase~Peroxidase~Lipoxygenase~
+Peroxidase~Glutathione Peroxidase~Superoxide Dismutase~Xanthine Oxidase~
+Arachidonate 12-Lipoxygenase~Arachidonate 15-Lipoxygenase~Arachidonate 5-Lipoxygenase~
+Peroxidases~Lipoxygenase~
+Lipase~
+p38 Mitogen-Activated Protein Kinases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Hydroxymethyl and Formyl Transferases~Phosphoribosylaminoimidazolecarboxamide Formyltransferase~Acyltransferases~
+L-Lactate Dehydrogenase~Cyclooxygenase 2~
+Glutathione Transferase~Phospholipases A~Phospholipases A2~
+Lipase~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+TOR Serine-Threonine Kinases~mTOR protein, rat~Peptidyl-Dipeptidase A~angiotensin converting enzyme 2~
+Catalase~Superoxide Dismutase~
+Phosphatidylinositol 3-Kinases~
+Palmitoyl-CoA Hydrolase~Racemases and Epimerases~
+Mixed Function Oxygenases~Cytochrome P-450 CYP4A~
+Lipoxygenase~Prostaglandin-Endoperoxide Synthases~Protein Kinase C~
+Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Acetyl-CoA Carboxylase~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Superoxide Dismutase~
+Protein Kinases~
+Thrombin~
+L-Iditol 2-Dehydrogenase~gamma-Glutamyltransferase~Aspartate Aminotransferases~Alkaline Phosphatase~
+Superoxide Dismutase~
+Ptgs2 protein, mouse~Cyclooxygenase 2~Thioredoxin-Disulfide Reductase~MAP Kinase Kinase Kinase 5~MAP3K5 protein, human~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C19~Cytochrome P-450 CYP2C9~CYP3A4 protein, human~Aryl Hydrocarbon Hydroxylases~CYP2C19 protein, human~CYP2C8 protein, human~Cytochrome P-450 CYP2C8~Cytochrome P-450 CYP3A~
+Adenosine Triphosphatases~Calcium-Transporting ATPases~
+Monoamine Oxidase~
+Arachidonate 5-Lipoxygenase~Cyclooxygenase 2~
+L-Lactate Dehydrogenase~
+Calcium-Calmodulin-Dependent Protein Kinases~Mitogen-Activated Protein Kinases~p38 Mitogen-Activated Protein Kinases~
+Prostaglandin-Endoperoxide Synthases~Thromboxane-A Synthase~
+Phospholipases A~Phospholipases A2~
+Prostaglandin-Endoperoxide Synthases~Mitogen-Activated Protein Kinases~Type C Phospholipases~
+Peptide Hydrolases~
+Pancreatic Elastase~Thrombin~
+Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Catalase~Tyrosine 3-Monooxygenase~Superoxide Dismutase~
+Arachidonate Lipoxygenases~Lipoxygenase~Prostaglandin-Endoperoxide Synthases~
+Ornithine Decarboxylase~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Prostaglandin-Endoperoxide Synthases~
+Lipoxygenase~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~CYP2C8 protein, human~Cytochrome P-450 CYP2C8~
+rho-Associated Kinases~
+GSTT2 protein, human~glutathione S-transferase T1~Glutathione Transferase~
+Acetyltransferases~diamine N-acetyltransferase~
+Cyclooxygenase 2~Tissue Plasminogen Activator~Matrix Metalloproteinases~Matrix Metalloproteinase 3~Matrix Metalloproteinase 1~
+Amyloid Precursor Protein Secretases~Endopeptidases~Aspartic Acid Endopeptidases~BACE1 protein, human~Bace1 protein, mouse~
+gamma-Glutamyltransferase~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Type C Phospholipases~Thrombin~Guanylate Cyclase~
+Peroxidase~Cyclooxygenase 1~Cyclooxygenase 2~
+Peptide Hydrolases~
+Caspase 3~Caspase 7~
+Cyclooxygenase 1~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~PTGS2 protein, human~Amidohydrolases~fatty-acid amide hydrolase~
+Xanthine Oxidase~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~CYP2C8 protein, human~Cytochrome P-450 CYP2C8~
+Luciferases, Firefly~
+Sterol Esterase~
+Racemases and Epimerases~alpha-methylacyl-CoA racemase~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Renin~
+Nitric Oxide Synthase~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Adenylyl Cyclases~
+Prostaglandin-Endoperoxide Synthases~Trypsin~
+Aryl Hydrocarbon Hydroxylases~CYP2C11 protein, rat~Cyp2c6 protein, rat~Steroid 16-alpha-Hydroxylase~Steroid 21-Hydroxylase~
+Lipase~
+Phospholipases A~Phospholipases A2~
+Phospholipases A~Phospholipases A2~
+Adenosine Triphosphatases~
+Nitric Oxide Synthase~
+Cyclooxygenase 2~Ptgs2 protein, rat~
+Creatine Kinase~
+Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~
+Palmitoyl-CoA Hydrolase~Racemases and Epimerases~alpha-methylacyl-CoA racemase~
+Renin~
+Amidohydrolases~fatty-acid amide hydrolase~
+glycogen synthase kinase 3 beta~Glycogen Synthase Kinase 3~
+L-Lactate Dehydrogenase~
+Lipoxygenase~Prostaglandin-Endoperoxide Synthases~
+Alcohol Oxidoreductases~13-hydroxyoctadecadienoic acid dehydrogenase~
+Prostaglandin-Endoperoxide Synthases~
+Glucuronosyltransferase~
+Lipoxygenase~
+Nitric Oxide Synthase~Nitric Oxide Synthase Type II~
+Phospholipases A~
+Creatine Kinase~
+Casp3 protein, rat~Caspase 3~Caspases~
+Phospholipases A~Phospholipases A2~
+Ptgs2 protein, mouse~Cyclooxygenase 2~
+Malate Dehydrogenase~
+Glucuronidase~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Myosin Heavy Chains~
+Mixed Function Oxygenases~Steroid Hydroxylases~CYP2C9 protein, human~Cytochrome P-450 CYP2C19~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~CYP2C19 protein, human~Steroid 16-alpha-Hydroxylase~
+Catalase~Superoxide Dismutase~Adenosine Triphosphatases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Peroxidase~Phospholipases A~Phospholipases A2~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Protein Kinases~Adenylyl Cyclases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~
+Carbonic Anhydrases~
+Ptgs2 protein, mouse~Cyclooxygenase 1~Cyclooxygenase 2~Ptgs1 protein, mouse~rho-Associated Kinases~Caspase 3~rac1 GTP-Binding Protein~
+Coenzyme A Ligases~FAA2 protein, S cerevisiae~long-chain-fatty-acid-CoA ligase~
+Lipase~
+Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Phospholipases A~Phospholipases A2~
+Cyclooxygenase 2~
+NADPH Oxidase~neutrophil cytosolic factor 1~
+Cyclooxygenase 2~PTGS2 protein, human~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~
+Nitric Oxide Synthase Type II~Cyclooxygenase 2~
+Steroid Hydroxylases~Aryl Hydrocarbon Hydroxylases~Steroid 16-alpha-Hydroxylase~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Casp3 protein, rat~Caspase 3~
+Prostaglandin-Endoperoxide Synthases~cyclooxygenase-3~
+L-Lactate Dehydrogenase~Arachidonate Lipoxygenases~Lipoxygenase~
+MAP Kinase Kinase Kinases~
+Proteasome Endopeptidase Complex~
+Lipase~
+Alkaline Phosphatase~
+Esterases~
+Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Aspartate Aminotransferases~Alanine Transaminase~
+Plasminogen Activators~
+Lipase~
+Aspartate Aminotransferases~Alanine Transaminase~
+Phospholipases~
+Calcium-Calmodulin-Dependent Protein Kinases~JNK Mitogen-Activated Protein Kinases~Mitogen-Activated Protein Kinases~p38 Mitogen-Activated Protein Kinases~
+Catalase~Glutathione Peroxidase~Glutathione Reductase~Glutathione Transferase~
+Protein Kinase C~
+Phospholipases A~Lipoprotein Lipase~Phospholipases A2~Phospholipase D~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Mixed Function Oxygenases~
+NADPH-Ferrihemoprotein Reductase~
+Glucosylceramidase~
+5'-Nucleotidase~
+IKBKE protein, human~Protein-Serine-Threonine Kinases~CHUK protein, human~I-kappa B Kinase~IKBKB protein, human~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Nitric Oxide Synthase Type II~Prostaglandin-Endoperoxide Synthases~
+Amyloid Precursor Protein Secretases~
+Aspartate Aminotransferases~Alanine Transaminase~
+Nitric Oxide Synthase Type II~Nos2 protein, mouse~
+Amyloid Precursor Protein Secretases~
+Coenzyme A Ligases~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Amidohydrolases~fatty-acid amide hydrolase~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Phospholipases A~GTP-Binding Proteins~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~PTGS2 protein, human~
+Glucuronosyltransferase~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Phospholipases A~Phospholipases A2~Type C Phospholipases~Phospholipase D~GTP-Binding Proteins~
+DNASE1 protein, human~Deoxyribonuclease I~
+Renin~
+Prostaglandin-Endoperoxide Synthases~Renin~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Glucuronosyltransferase~
+Limonene Hydroxylases~Aryl Hydrocarbon Hydroxylases~Cytochrome P-450 CYP3A~
+Lipoxygenase~Prostaglandin-Endoperoxide Synthases~
+Catalase~Superoxide Dismutase~
+Arachidonate Lipoxygenases~
+lipase B, Candida antarctica~Lipase~
+Proteasome Endopeptidase Complex~
+Ptgs2 protein, mouse~Cyclooxygenase 2~
+Renin~
+Chloramphenicol O-Acetyltransferase~MAP2K1 protein, human~Map2k1 protein, mouse~Protein-Serine-Threonine Kinases~MAP Kinase Kinase 1~Mitogen-Activated Protein Kinase Kinases~Glutamate-Cysteine Ligase~
+Cyclooxygenase 1~Prostaglandin-Endoperoxide Synthases~
+Lipase~
+Cyclooxygenase 2~PTGS2 protein, human~
+Acid Phosphatase~Hexosaminidases~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Acetylglucosaminidase~
+Superoxide Dismutase~Thrombin~
+L-Lactate Dehydrogenase~
+Catalase~
+Urease~
+Lipoxygenase~Protein Kinase C~Phospholipases A~Phospholipases A2~
+Prostaglandin-Endoperoxide Synthases~
+Cathepsins~Cathepsin D~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Ribosomal Protein S6 Kinases~
+Glutathione Peroxidase~Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Lipoxygenase~Prostaglandin-Endoperoxide Synthases~
+Nitric Oxide Synthase~
+Cyclooxygenase 2~Extracellular Signal-Regulated MAP Kinases~Amyloid Precursor Protein Secretases~rho GTP-Binding Proteins~
+Nitric Oxide Synthase~
+Prostaglandin-Endoperoxide Synthases~
+Uridine Diphosphate Glucose Dehydrogenase~Glucuronosyltransferase~Glutamine-Fructose-6-Phosphate Transaminase Isomerizing)~
+Prostaglandin-Endoperoxide Synthases~
+Cathepsins~Cathepsin D~
+Thromboxane-A Synthase~
+Protein Kinase C~Type C Phospholipases~Phospholipase C gamma~
+Lipoxygenase~
+Phospholipases~Phospholipases A~Phospholipases A2~
+Pancreatic Elastase~
+Mixed Function Oxygenases~NADPH-Ferrihemoprotein Reductase~flavocytochrome P450 BM3 monoxygenases~
+Phospholipases~
+Proto-Oncogene Proteins c-akt~
+Racemases and Epimerases~
+Leukocyte Elastase~
+L-Lactate Dehydrogenase~Matrix Metalloproteinases~
+Prostaglandin-Endoperoxide Synthases~Proto-Oncogene Proteins B-raf~rac1 GTP-Binding Protein~
+Lipoxygenase~Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~Mitogen-Activated Protein Kinases~p38 Mitogen-Activated Protein Kinases~
+Alcohol Dehydrogenase~
+Coenzyme A Ligases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Alanine Transaminase~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~
+Carboxylic Ester Hydrolases~
+DNASE1 protein, human~Deoxyribonuclease I~
+Group IV Phospholipases A2~
+Peroxidase~
+Cytochrome P-450 CYP2C9~Cytochrome P-450 CYP2C8~
+Lipase~
+Hydrolases~Aminohydrolases~nitrilase~
+glycogen synthase kinase 3 beta~Glycogen Synthase Kinase 3~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~
+Horseradish Peroxidase~Prostaglandin-Endoperoxide Synthases~
+Sulfurtransferases~Sulfotransferases~estrone sulfotransferase~
+3-Hydroxysteroid Dehydrogenases~Peroxidase~Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Thromboxane-A Synthase~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Prostate-Specific Antigen~
+Acyltransferases~Carnitine O-Palmitoyltransferase~
+Peroxidase~
+Glucuronosyltransferase~
+Prostaglandin-Endoperoxide Synthases~
+Glucuronidase~
+Arachidonate Lipoxygenases~
+Cyclooxygenase 2~PTGS2 protein, human~Matrix Metalloproteinase 3~
+Catalase~
+Cyclooxygenase 2~
+Arachidonate Lipoxygenases~
+Hydrolases~
+Casp3 protein, rat~Caspase 3~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, rat~
+Prostate-Specific Antigen~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Ubiquitin-Protein Ligases~VHL protein, human~Von Hippel-Lindau Tumor Suppressor Protein~
+Arachidonate 5-Lipoxygenase~Prostaglandin-Endoperoxide Synthases~
+Urate Oxidase~
+Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Renin~
+Xanthine Oxidase~
+Glucuronosyltransferase~
+Prostaglandin-Endoperoxide Synthases~
+L-Lactate Dehydrogenase~Aspartate Aminotransferases~Creatine Kinase~
+Receptors, Vascular Endothelial Growth Factor~
+Esterases~
+Amidohydrolases~fatty-acid amide hydrolase~
+Cyclooxygenase 2~
+beta-Lactamases~
+Thromboxane-A Synthase~
+Thiolester Hydrolases~Coenzyme A Ligases~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~
+Trypsin~Thrombin~
+Laccase~
+Nitric Oxide Synthase~
+Glutathione Peroxidase~Glutathione Reductase~Glutathione Transferase~
+Prostaglandin-Endoperoxide Synthases~
+Peroxidase~
+Superoxide Dismutase~Xanthine Oxidase~
+Renin~
+Catechol Oxidase~
+Glucuronosyltransferase~
+Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Lipoxygenase~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+gamma-Glutamyltransferase~Acetylglucosaminidase~Aminopeptidases~Antigens, CD13~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~Amidohydrolases~fatty-acid amide hydrolase~
+Renin~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Renin~
+Aspartate Aminotransferases~Alanine Transaminase~
+Thromboxane-A Synthase~
+Peroxidases~Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Racemases and Epimerases~2-arylpropionyl-CoA epimerase~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~
+Acid Phosphatase~Glucuronidase~
+Glucuronosyltransferase~
+Subtilisins~subtilase cytotoxin, E coli~
+L-Lactate Dehydrogenase~
+p38 Mitogen-Activated Protein Kinases~
+Prostaglandin-Endoperoxide Synthases~
+L-Lactate Dehydrogenase~Catalase~Superoxide Dismutase~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Oxygenases~
+Steroid Hydroxylases~CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~Steroid 16-alpha-Hydroxylase~
+Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~
+Renin~
+Lipoxygenase~
+Cyclooxygenase 2~
+Esterases~
+Catalase~Superoxide Dismutase~Xanthine Oxidase~
+Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~
+Aldehyde Oxidase~Urokinase-Type Plasminogen Activator~
+Renin~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Protein Kinase C~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Thrombin~
+Peroxidase~Nitric Oxide Synthase~
+Catalase~
+Pyruvate Kinase~Amyloid Precursor Protein Secretases~Endopeptidases~Aspartic Acid Endopeptidases~BACE1 protein, human~
+Arachidonate Lipoxygenases~
+rho-Associated Kinases~
+Cyclooxygenase 2~Caspase 3~Caspase 9~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Lipase~Lipoprotein Lipase~
+Phospholipases A~Phospholipases A2~
+Pertussis Toxin~
+HIV Protease~
+Cyclooxygenase 1~Prostaglandin-Endoperoxide Synthases~
+Choline O-Acetyltransferase~
+Alkaline Phosphatase~
+Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~
+L-Lactate Dehydrogenase~Muramidase~Glucuronidase~Lactoferrin~
+Phospholipases A2~
+rho GTP-Binding Proteins~
+Carboxylic Ester Hydrolases~carboxylesterase 1, mouse~
+Lipase~
+Lactoferrin~
+Aspartate Aminotransferases~Phosphoric Monoester Hydrolases~
+Prostaglandin-Endoperoxide Synthases~
+Phosphoric Diester Hydrolases~3',5'-Cyclic-AMP Phosphodiesterases~3',5'-Cyclic-GMP Phosphodiesterases~
+Nitric Oxide Synthase Type III~
+Alkaline Phosphatase~
+Protein Kinase C~Sodium-Potassium-Exchanging ATPase~
+Cyclooxygenase 2~
+5-Aminolevulinate Synthetase~
+3-Hydroxysteroid Dehydrogenases~AKR1C3 protein, human~Hydroxyprostaglandin Dehydrogenases~
+DPP4 protein, human~Dipeptidyl Peptidase 4~
+Muramidase~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Mitogen-Activated Protein Kinase 1~Mitogen-Activated Protein Kinase 3~rhoA GTP-Binding Protein~
+Mixed Function Oxygenases~Prostaglandin-Endoperoxide Synthases~
+Catalase~Glutathione Peroxidase~Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~Superoxide Dismutase~
+Prostaglandin-Endoperoxide Synthases~
+Peroxidase~Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Thromboxane-A Synthase~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Pancreatic Elastase~
+Nitric Oxide Synthase~
+Esterases~
+Horseradish Peroxidase~
+NOS2 protein, human~Nitric Oxide Synthase Type II~Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~
+Phospholipases A2~
+Adenosine Triphosphatases~PMS2 protein, human~MSH2 protein, human~MutS Homolog 2 Protein~DNA Repair Enzymes~
+Arachidonate 5-Lipoxygenase~Cyclooxygenase 1~Cyclooxygenase 2~Epoxide Hydrolases~leukotriene A4 hydrolase~Intramolecular Oxidoreductases~prostaglandin-E synthase~
+rhoA GTP-Binding Protein~
+DNASE1 protein, human~Deoxyribonuclease I~
+Thioredoxin-Disulfide Reductase~
+Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Glycosyltransferases~Glucuronosyltransferase~Pentosyltransferases~UDP xylose-protein xylosyltransferase~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~
+UDP-glucuronosyltransferase, UGT1A3~Glucuronosyltransferase~
+Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Coenzyme A Ligases~
+Prostaglandin-Endoperoxide Synthases~
+Alkaline Phosphatase~
+Glutathione Peroxidase~Cytochrome P-450 CYP1A1~Glutathione Reductase~Glutathione Transferase~Acetylcholinesterase~
+Calcium-Transporting ATPases~
+Alcohol Oxidoreductases~Hydroxysteroid Dehydrogenases~carbonyl reductase NADPH)~317)-hydroxysteroid dehydrogenase~Aldehyde Reductase~
+Prostaglandin-Endoperoxide Synthases~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~CYP2C8 protein, human~Cytochrome P-450 CYP2C8~
+alpha-chymotrypsin~Chymotrypsin~
+Isomerases~Intramolecular Oxidoreductases~prostaglandin-E synthase~prostacyclin synthetase~Thromboxane-A Synthase~
+Plasminogen Activators~
+Mitogen-Activated Protein Kinases~
+Phospholipases A~Phospholipases A2~
+Nitric Oxide Synthase~Cyclooxygenase 1~Cyclooxygenase 2~Ptgs1 protein, rat~Ptgs2 protein, rat~
+Lipoxygenase~Prostaglandin-Endoperoxide Synthases~Phospholipases~
+Transaminases~Alkaline Phosphatase~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Ptgs2 protein, mouse~Cyclooxygenase 2~
+Protein Kinase C~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Aspartate Aminotransferases~Alanine Transaminase~
+Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~
+Lipase~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, rat~
+Kallikreins~
+Glucuronosyltransferase~
+Glucuronosyltransferase~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Peroxidase~Microbial Collagenase~
+Lipase~
+FGFR3 protein, human~Receptor, Fibroblast Growth Factor, Type 3~
+Casp3 protein, mouse~Caspase 3~
+Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~
+Amidohydrolases~fatty-acid amide hydrolase~
+Xanthine Oxidase~
+Sodium-Potassium-Exchanging ATPase~
+L-Lactate Dehydrogenase~Type C Phospholipases~
+Renin~
+Pancreatic Elastase~Leukocyte Elastase~
+Peroxidase~
+Trypsin~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Serine Endopeptidases~prolyl oligopeptidase~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~
+Aminohydrolases~nitrilase~Hydro-Lyases~nitrile hydratase~
+Aldehyde Reductase~
+Nitric Oxide Synthase~
+L-Lactate Dehydrogenase~Peroxidase~Creatine Kinase~
+L-Lactate Dehydrogenase~Prostaglandin-Endoperoxide Synthases~
+Superoxide Dismutase~
+Alkaline Phosphatase~
+Oxygenases~
+Cyclooxygenase 2~
+Prostaglandin-Endoperoxide Synthases~
+Racemases and Epimerases~alpha-methylacyl-CoA racemase~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Prostaglandin-Endoperoxide Synthases~
+Glucuronosyltransferase~UGT2B17 protein, human~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~CYP2C8 protein, human~Cytochrome P-450 CYP2C8~
+Peroxidase~Monophenol Monooxygenase~Acid Phosphatase~
+Arylsulfotransferase~
+Catalase~Superoxide Dismutase~Glutathione Reductase~Glutathione Transferase~Alkaline Phosphatase~
+Cholinesterases~
+Amidohydrolases~fatty-acid amide hydrolase~
+Phospholipases A~Phospholipases A2~
+Catalase~Superoxide Dismutase~
+Cyclooxygenase 1~Cyclooxygenase 2~

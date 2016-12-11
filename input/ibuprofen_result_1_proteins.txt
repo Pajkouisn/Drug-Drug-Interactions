@@ -1,0 +1,78 @@
+Cyclooxygenase 1~
+IKBKE protein, human~I-kappa B Kinase~Phosphoprotein Phosphatases~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Aminopyrine N-Demethylase~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Protein Phosphatase 1~
+Mitogen-Activated Protein Kinases~Caspases~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~DNA Topoisomerases, Type II~DNA topoisomerase II beta~
+Nitric Oxide Synthase~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Neuraminidase~
+Cyclooxygenase 1~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~Ptgs1 protein, rat~
+Oxygenases~7-Alkoxycoumarin O-Dealkylase~
+Cytochrome P-450 CYP1A1~Cytochrome P-450 CYP3A~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Hydrolases~
+Mixed Function Oxygenases~
+Cyclooxygenase 1~Cyclooxygenase 2~
+Casp3 protein, rat~Caspase 3~
+Thymidylate Synthase~
+Extracellular Signal-Regulated MAP Kinases~Phospholipases A2, Cytosolic~
+Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+CYP3A4 protein, human~Cytochrome P-450 CYP3A~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~
+Nitric Oxide Synthase~NADPH Dehydrogenase~
+Thrombin~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Nitric Oxide Synthase~Nitric Oxide Synthase Type II~Nos2 protein, mouse~Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Arachidonate 12-Lipoxygenase~
+Sulfatases~Glucuronidase~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~
+Caspases~
+Alkaline Phosphatase~
+Cytochrome P-450 CYP2D6~
+Thrombin~
+Pertussis Toxin~
+Cyclooxygenase 1~
+Metalloendopeptidases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Caspases~
+Methyltransferases~thiopurine methyltransferase~
+Mixed Function Oxygenases~CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~tolbutamide 4-hydroxylase~
+Cytochrome P-450 CYP1A2~Arylamine N-Acetyltransferase~
+Aryl Hydrocarbon Hydroxylases~CYP2C8 protein, human~Cytochrome P-450 CYP2C8~
+Cyclooxygenase 2~Phospholipases A~Ornithine Decarboxylase~
+rhoA GTP-Binding Protein~
+Cyclooxygenase 1~
+Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Nitric Oxide Synthase~Nitric Oxide Synthase Type III~Nos3 protein, rat~Akt1 protein, rat~Protein-Serine-Threonine Kinases~Proto-Oncogene Proteins c-akt~
+Arylsulfotransferase~SULT1A1 protein, human~
+p38 Mitogen-Activated Protein Kinases~
+Nitric Oxide Synthase~
+Phospholipases~
+Prostaglandin-Endoperoxide Synthases~
+Sodium-Potassium-Exchanging ATPase~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~CYP3A4 protein, human~Aryl Hydrocarbon Hydroxylases~Cytochrome P-450 CYP3A~
+Esterases~
+Prostaglandin-Endoperoxide Synthases~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C19~Cytochrome P-450 CYP2C9~CYP3A4 protein, human~Aryl Hydrocarbon Hydroxylases~CYP2C19 protein, human~Cytochrome P-450 CYP3A~
+Renin~
+CYP2C9 protein, human~Cytochrome P-450 CYP2C9~Aryl Hydrocarbon Hydroxylases~CYP2C8 protein, human~Cytochrome P-450 CYP2C8~
+Peroxidase~
+Cyclooxygenase 2~Prostaglandin-Endoperoxide Synthases~
+Protein Kinase C~
+Xanthine Oxidase~Glucuronosyltransferase~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Prostaglandin-Endoperoxide Synthases~cyclooxygenase-3~
+Prostaglandin-Endoperoxide Synthases~
+Nitric Oxide Synthase~Nitric Oxide Synthase Type II~Nos2 protein, mouse~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 2~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Peroxidases~Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Cyclooxygenase 1~Cyclooxygenase 2~PTGS1 protein, human~PTGS2 protein, human~Prostaglandin-Endoperoxide Synthases~
+Carboxylic Ester Hydrolases~CES1 protein, human~CES2 protein, human~Carboxylesterase~
+Cyclooxygenase 1~PTGS1 protein, human~
